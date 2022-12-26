@@ -34,6 +34,7 @@ https://sv06.pelisfile.net/videos/hls/vnaswKezPdjwqVDKVi1juQ/1672034670/13305/45
 http://www.konectar1.com/yesi/Star_Wars_El_ascenso_de_Skywalker_2019.mp4
 
 
-#EXTINF:-1 group-title="SERIE", MERLINA 
-#EXTINF:0 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/MERLINA-4K-3.jpg.webp",MERLINA: EPISODIO 01X01
+#EXTINF:********SERIES******
+#EXTINF:-1 group-title="SERIES", MERLINA 
+#EXTINF:0 tvg-name="TVG 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/MERLINA-4K-3.jpg.webp",MERLINA: EPISODIO 01X01
 http://54.39.52.63/SERIE%20ANGEL/SERIE4K/MERLINA/T1E01%20(1).mkv
