@@ -1,10 +1,103 @@
 #EXTM3U
-#PLAYLIST:PELICULAS
-#EXTINF:-1 group-title="PELICULAS", PELICULAS
-#EXTINF:0 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="PELICULAS",La ola 2015
+#PLAYLIST: PELICULAS
+
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="PELICULAS",Suspenso,La ola 2015
 http://www.konectar1.com/yesi/13_Pecados_2014.mp4
 
-#PLAYLIST:SERIES
-#EXTINF:0 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="SERIES",La ola XXX
-http://www.konectar1.com/yesi/13_Pecados_2014.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://img.cnmhstng.com/images/2021/Jurassic_World_Fallen_Kingdom923.jpg" group-title="PELICULAS",Ciencia Ficcion,JURASSIC WORLD: FALLEN KINGDOM
+http://144.217.180.205/Zeus/MOVIES/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4
 
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfDRivu6rilz1ttGvyqPsD44Lr7KL7NpI-JHdngPfHc3cHXcSD" group-title="PELICULAS",Ciencia Ficcion,LUCY 2014
+http://www.konectar1.com/yesi/Lucy_2014.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2zSp91PYtjOPL8WcgrIAsdeVvSVz06Si96Dm3jdc16ND-K5gt" group-title="PELICULAS",Acción/Comedia,BAD BOYS: Dos policías rebeldes
+http://www.konectar1.com/yesi/Bad_Boys_Dos_policias_rebeldes_1995.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSud8DnTAvVsC5BP1gsOsC04urEPPiaJvJBZ5hfb3CZU6Lj5nmK" group-title="PELICULAS",Acción/Comedia,BAD BOYS II: Vuelven más rebeldes
+http://www.konectar1.com/yesi/Bad_Boys_2_2003.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdTJl17J5_VdMVx85Krry9e2j2KZKkuuE92ejNVAtHsNGN-3l8" group-title="PELICULAS",Acción/Comedia,BAD BOYS III: Bad Boys para siempre
+http://www.konectar1.com/yesi/Bad_Boys_para_Siempre_2020.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGXM-v32axhNmpks4NzXPpm5gpyJxxoEnLckUZ3g4mO59nXDX" group-title="PELICULAS",Acción/Comedia,Una pareja explosiva (1998)
+http://www.konectar1.com/yesi/Una_pareja_explosiva_1998.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShKJnhYBA0faF3v-o7gyXJ3qi9Ntn97T7SoM2iu372xuB-TsVx" group-title="PELICULAS",Acción/Comedia,Una pareja explosiva II(2001)
+http://www.konectar1.com/yesi/Una_pareja_explosiva_2_2001.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpF_4ppE45m25Eez7MMrLeF6ZL0dEq6esr3oyWZ1uwukPIgNx" group-title="PELICULAS",Acción/Comedia,Una pareja explosiva III (2007)
+http://www.konectar1.com/yesi/Una_pareja_explosiva_3_2007.mp4
+
+
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV2yww1-4go-Xdf0Ona_Vp8u56SiqIsxqUBdjpBwuKe44h9F-w" group-title="PELICULAS",Crimen/Suspenso,Rápido y furioso (2001)
+http://www.konectar1.com/yesi/Rapido_y_furioso_2001.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS65CQBb9ROEmmkNRDrkanv_EwTZf0Xy0mBDQsYHtTMWHMu3ZBG" group-title="PELICULAS",Crimen/Suspenso,Más rápido, más furioso (2003)
+http://www.konectar1.com/yesi/Mas_rapido_mas_furioso_2003.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkdvNfykhQjwCDEFfuIF2KKAqgMKU5JcddY-3Brqh1T1238t6C" group-title="PELICULAS",Crimen/Suspenso,Rápido y furioso: reto Tokio (2006)
+http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.tokyo.drift.2006.1080p-dual-lat.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkdvNfykhQjwCDEFfuIF2KKAqgMKU5JcddY-3Brqh1T1238t6C" group-title="PELICULAS",Crimen/Suspenso,Rápidos y furiosos 4 (2009)
+http://www.konectar1.com/yesi/Rapidos_y_furiosos_2009.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCVsIH_fzlUD2m4v-O3IDF_YxD724OGFlniSWoP7vr4NMWWXXm" group-title="PELICULAS",Crimen/Suspenso,Rápidos y furiosos: 5in control (2011)
+http://www.konectar1.com/yesi/Rapidos_y_Furiosos_5in_Control_2011.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg" group-title="PELICULAS",Crimen/Suspenso,Rápidos y Furiosos 6 (2013)
+http://45.179.164.59:8181/Peliculas/Fast.and.furious.6.2013.1080p.extended-dual-lat.mp4
+#EXTINF:137 tvg-country="ES" tvg-language="Spanish"	 tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg" group-title="PELICULAS",Crimen/Suspenso,Rápidos y Furiosos 7 (2015)
+https://www906.ff-02.com/token=uzLKMF6UgEJayUp2fDpxAQ/1672099549/181.114.0.0/59/2/82/e653fec1dbe2cb24cc577a77a482c822-480p.mp4
+#EXTINF:137 tvg-country="ES" tvg-language="Spanish"	 tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg" group-title="PELICULAS",Crimen/Suspenso,Rápidos y Furiosos 8 (2017)
+http://www.konectar1.com/yesi/Rapidos_y_furiosos_8_2017.mp4
+#EXTINF:137 tvg-country="ES" tvg-language="Spanish"	 tvc-guide-art="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq6_4OeNfendbg5EM1mL-CcwQnREi8vDozw4ESryy4gdJ9jqFm" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq6_4OeNfendbg5EM1mL-CcwQnREi8vDozw4ESryy4gdJ9jqFm" group-title="PELICULAS",Crimen/Suspenso,Rápidos y Furiosos 9 (2021)
+http://www.konectar1.com/yesi/Rapidos_y_Furiosos_9_2021.mp4
+
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDMAxVnp7N809Dnz8xbXlFb0QW4Kawuw3h7RzNAXipvg07on3" group-title="PELICULAS",Acción/Aventura,Kung Fu Panda(2017)
+http://www.konectar1.com/yesi/Kung_Fu_Panda_2008.mp4
+
+#EXTINF:92 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://images.cdn2.buscalibre.com/fit-in/360x360/47/dc/47dcfd75f326ff2dd569daec29d32f1d.jpg" group-title="PELICULAS",Acción/Aventura,Kung Fu Panda 2(2011)
+http://www.konectar1.com/yesi/Kung_Fu_Panda_2_2011.mp4
+
+#EXTINF:95 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu7O8Hv5P88kGgzYuBBMCBfvXEwSxH0NR1olmT-_88ayFgBeF4" group-title="PELICULAS",Acción/Aventura,Kung Fu Panda 3(2016)
+http://www.konectar1.com/yesi/Kung_Fu_Panda_3_2016.mp4
+
+
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoNcZ-qNfp9mGpxBPci0-iravAmwiGWghj6QWi7wW1QMHew6H" group-title="PELICULAS",Drama,A ciegas (2020)
+http://www.konectar1.com/yesi/A_Ciegas_2020.mp4
+
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ375lHr1yDVpPrQv0MDaq1G0d862KHp9BjXyb5F85bSr4BadEF" group-title="PELICULAS",Ciencia ficción/Wéstern,Volver al futuro I (1985)
+http://www.konectar1.com/yesi/Volver_al_futuro_1985.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ375lHr1yDVpPrQv0MDaq1G0d862KHp9BjXyb5F85bSr4BadEF" group-title="PELICULAS",Ciencia ficción/Wéstern,Volver al futuro III (1989)
+http://www.konectar1.com/yesi/Volver_al_futuro_II_1989.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ375lHr1yDVpPrQv0MDaq1G0d862KHp9BjXyb5F85bSr4BadEF" group-title="PELICULAS",Ciencia ficción/Wéstern,Volver al futuro III (1990)
+http://www.konectar1.com/yesi/Volver_al_Futuro_III_1990.mp4
+
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbYUk3TNQ-hpvDYQcg-QqqwWVwfxZYqWCh-uNuuoWgKfcGopr" group-title="PELICULAS",Ciencia ficción/Acción,Avatar (2009)
+http://www.konectar1.com/yesi/Avatar_2009.mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX0NNA56fZmz4v50L5HENXgm93TevQ59iLczKYc-rRXZiA9ImM" group-title="PELICULAS",Ciencia ficción/Acción,Avatar 2 (2022)
+http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
+
+
+
+
+#PLAYLIST:SERIE
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x1 (2022)
+https://www132.ff-01.com/token=omIPFZsQOttxAmnV5qv0Og/1672087504/181.114.0.0/174/1/a3/06c2caf4ab7ca852bfeb9a54803c0a31-720p.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x2 (2022)
+https://861605437.tapecontent.net/radosgw/XJRleMWxVasAY6/O1kGTHwDQ2keiK5j7im1uUnEoXdugC8E-6HAKzhwf3cHFTHPKLsJMTVHFhxfh32YW7NezhApiOiL05KTBa9cbeMuy1-qK9R6HPn4YOt0OxgXVfvU1X5bzhoSx5YQPYurTJEdQ-7lOMY4gnYH2r9rp-cnU6mf6SKFuVFfXi8mZ3gda8Q9pnTCUdqwcTn38k0SpxUgOYB6jXM2JebBz3Uewd_PEYQDEJZUIdJUhrB2Ga6tWTyhadEa_M9WOcd9B5Yu6WHGQhYgg6zfuAdaICwKEjySaudc4SbHP1eVGQ/NR6L9eVkrgL-streamtape.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x3 (2022)
+https://861520839.tapecontent.net/radosgw/7GmkYzrbrxSAAMk/sSTyhjmqHzzqQz26OLYoe5qq7s6IMQsd823A8kjYoB9DM6ulw4ggu_1KjGnj06B7YUUt60_m3SjXUKC9zYaYNMfLCL1VbofDeJ2niaBWr38pen2VZEr5K4Xsxeuw-o2hmGC5ZWB9VIdefx2UvsD9GXLSFv5zX6gxP0-AEeiSpKwUQ561BKSr0Whdg1Zo6LsSF8gIzxw44MXSSng5-BasJHFzhxIQkeiR-8i0Y1P38evYwUCbuSHRx24vQdk2vIyeEQs_yVUNmaoUOQG0aBU1HSzM3acwhen9BzuiuA/dVxJ4qa0zgp-streamtape.mp4?stream=1
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x4 (2022)
+https://861520839.tapecontent.net/radosgw/7GmkYzrbrxSAAMk/sSTyhjmqHzzqQz26OLYoe5qq7s6IMQsd823A8kjYoB9DM6ulw4ggu_1KjGnj06B7YUUt60_m3SjXUKC9zYaYNMfLCL1VbofDeJ2niaBWr38pen2VZEr5K4Xsxeuw-o2hmGC5ZWB9VIdefx2UvsD9GXLSFv5zX6gxP0-AEeiSpKwUQ561BKSr0Whdg1Zo6LsSF8gIzxw44MXSSng5-BasJHFzhxIQkeiR-8i0Y1P38evYwUCbuSHRx24vQdk2vIyeEQs_yVUNmaoUOQG0aBU1HSzM3acwhen9BzuiuA/dVxJ4qa0zgp-streamtape.mp4?stream=1
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x5 (2022)
+https://2475154628.tapecontent.net/radosgw/mw4D30lLokIb4Q0/GEGpTYtJK8LPYwB6IVwSvq7k4FFP05_Mksu5BidwC_BKOMkvovDWQhRQO3ZKl60fAUWGgxBkVPJqLP-F-GHDGjw8O_1bvj-jkhnFm2_EIj9oEswXOAV9GaiBKPJYt4PWzBrc3-XVS7GoV6lKjpdeP_ZNo3j91_lW8jiq78uGy3EqlGxyLMepSmgYCoiQu2q12RIOGdZq838omd-AnC-N1FIQD4cUXR6N1Rmt0BFdWOUJzDOyaFSPRK5zitey1uBNpWixPXLb7qRiC5iXmCcCiJUsabP5UYDtWlB1wot1vh_vY4AJK5B58TCq0x4/MV1xDYE8QR4-streamtape.mp4?stream=1
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x6 (2022)
+https://www258.ff-01.com/token=2eIYrTTU9UxB8lFQXVlMew/1672093618/181.114.0.0/29/3/40/0ed1d77c0534bd3def3ff4c812ed3403-720p.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x7 (2022)
+https://867320103.tapecontent.net/radosgw/aP9bp3WDZXtx4pJ/s-rKSRh7LYGJW5t0kYIxpfyNowWQWgfEgB_pA-RwbgwsMS3I-6FRuRQBbpNFfnvpZ4b-sEPSbCR4n8rIXgPfGxPsYcFoKIfSMWStTmtL3aJbol3mwrEvni_LhDVG8CgOUylX4_ouQAA85TRdTILNmhPcmAnSnC6At-AX6H660sMu6yanjgBxWCgw8auN364ZU5WDRrmlWbMygHzDjujEKZie30SJs5v21QWwbhrQ72JQ9_AePyhJkD0PRKHS6GvED5xx2NZuTDB2SHrz73RuFkuCi18Nx7kPFYqcgQ/JDxlzRZKPDl-streamtape.mp4?stream=1
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE",Comedia de terror,Merlina 1x8 (2022)
+https://www258.ff-01.com/token=2eIYrTTU9UxB8lFQXVlMew/1672093618/181.114.0.0/29/3/40/0ed1d77c0534bd3def3ff4c812ed3403-720p.mp4
+
+#EXT-X-ENDLIST
