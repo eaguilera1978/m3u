@@ -1,18 +1,10 @@
 #EXTM3U
 #PLAYLIST:PELICULAS
-#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/themes/Cinecalidad/assets/img/logo.svg?v=1.0" group-title="PELICULAS", PELICULAS
+#EXTINF:-1 group-title="PELICULAS", PELICULAS
 #EXTINF:0 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="PELICULAS",La ola 2015
 http://www.konectar1.com/yesi/13_Pecados_2014.mp4
 
-
-
-
-
-
-
-
-
-
-EXTM3U
 #PLAYLIST:SERIES
+#EXTINF:0 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="SERIES",La ola XXX
+http://www.konectar1.com/yesi/13_Pecados_2014.mp4
 
