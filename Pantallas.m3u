@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
 #EXTINF:-1 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="Pelicula", Suspenso, La ola 2015
 http://www.konectar1.com/yesi/13_Pecados_2014.mp4
