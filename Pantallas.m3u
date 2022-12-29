@@ -1,15 +1,15 @@
 #EXTM3U
 #PLAYLIST: PELICULAS
 #EXTINF:-1
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="PELICULAS",Suspenso,La ola 2015
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="PELICULAS", Suspenso, La ola 2015
 http://www.konectar1.com/yesi/13_Pecados_2014.mp4
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://img.cnmhstng.com/images/2021/Jurassic_World_Fallen_Kingdom923.jpg" group-title="PELICULAS",Ciencia Ficcion,JURASSIC WORLD: FALLEN KINGDOM
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://img.cnmhstng.com/images/2021/Jurassic_World_Fallen_Kingdom923.jpg" group-title="PELICULAS", Ciencia Ficcion, JURASSIC WORLD: FALLEN KINGDOM
 http://144.217.180.205/Zeus/MOVIES/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfDRivu6rilz1ttGvyqPsD44Lr7KL7NpI-JHdngPfHc3cHXcSD" group-title="PELICULAS",Ciencia Ficcion,LUCY 2014
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfDRivu6rilz1ttGvyqPsD44Lr7KL7NpI-JHdngPfHc3cHXcSD" group-title="PELICULAS", Ciencia Ficcion, LUCY 2014
 http://www.konectar1.com/yesi/Lucy_2014.mp4
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2zSp91PYtjOPL8WcgrIAsdeVvSVz06Si96Dm3jdc16ND-K5gt" group-title="PELICULAS",Acción/Comedia,BAD BOYS: Dos policías rebeldes
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2zSp91PYtjOPL8WcgrIAsdeVvSVz06Si96Dm3jdc16ND-K5gt" group-title="PELICULAS", Acción/Comedia, BAD BOYS: Dos policías rebeldes
 http://www.konectar1.com/yesi/Bad_Boys_Dos_policias_rebeldes_1995.mp4
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSud8DnTAvVsC5BP1gsOsC04urEPPiaJvJBZ5hfb3CZU6Lj5nmK" group-title="PELICULAS",Acción/Comedia,BAD BOYS II: Vuelven más rebeldes
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSud8DnTAvVsC5BP1gsOsC04urEPPiaJvJBZ5hfb3CZU6Lj5nmK" group-title="PELICULAS", Acción/Comedia, BAD BOYS II: Vuelven más rebeldes
 http://www.konectar1.com/yesi/Bad_Boys_2_2003.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdTJl17J5_VdMVx85Krry9e2j2KZKkuuE92ejNVAtHsNGN-3l8" group-title="PELICULAS",Acción/Comedia,BAD BOYS III: Bad Boys para siempre
 http://www.konectar1.com/yesi/Bad_Boys_para_Siempre_2020.mp4

@@ -5,3 +5,5 @@ http://45.179.164.59:8181/Peliculas/
 http://www.konectar1.com/yesi/?C=N;O=A
 
 https://filepursuit.com/
+
+https://raw.githubusercontent.com/eaguilera1978/m3u/main/Pantallas.m3u
