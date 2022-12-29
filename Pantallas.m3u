@@ -109,8 +109,10 @@ http://45.179.164.59:8181/Pelicula/Spider-man.far.from.home.2019.1080p-dual-lat-
 https://www2255.ff-05.com/token=HEbz8gPV-c6CFW_gTWrTDw/1672288366/181.114.0.0/32/0/29/888cb93ba21c635a028cd9c7cde2c290-720p.mp4
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w780/aknvFyJUQQoZFtmFnYzKi4vGv4J.jpg" group-title="Pelicula", Ciencia ficción/Aventura,Dune (2021)
 https://www1223.ff-03.com/token=F-ull3pDT0uz_seQruxoOA/1672289039/181.114.0.0/73/e/50/11a4196f4e33efa23c253f7cc1f0650e-720p.mp4
-#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w780/obBsMjC9dkDeoYsLxHURikW87UZ.jpg" group-title="Pelicula", Infantil/Fantasía, Coraline y la puerta secreta (2009)
-https://www78.ff-01.com/token=dUAJLDJG8qIe04V88mGvcw/1672291590/181.114.0.0/168/f/ae/2721019a001fa81921f5df45680a0aef-1080p.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w185/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg" group-title="Pelicula", Infantil/Fantasía, Coraline y la puerta secreta (2009)
+http://45.179.164.59:8181/Peliculas/Coraline%20y%20la%20puerta%20secreta%20(2009)%201080p.WWW.pelisenhd.NET.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/01/10/42/226928.jpg" group-title="Pelicula", Infantil/Comedia, Matilda (1996)
+http://73.66.228.201:9800/Movies/M/Matilda%20(1996).mkv
 
 #PLAYLIST:SERIE
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE", Comedia de terror,Merlina 1x1 (2022)
