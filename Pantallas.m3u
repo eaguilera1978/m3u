@@ -1,6 +1,8 @@
 #EXTM3U
 #PLAYLIST: Pelicula
-#EXTINF:-1
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:-1 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5GTMt8SyuED0pAzyiCe0FgApxFmTc9zTEYc5QNXHRTeEOW801" group-title="Pelicula", Suspenso, La ola 2015
 http://www.konectar1.com/yesi/13_Pecados_2014.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://img.cnmhstng.com/images/2021/Jurassic_World_Fallen_Kingdom923.jpg" group-title="Pelicula", Ciencia Ficcion, JURASSIC WORLD: FALLEN KINGDOM
@@ -132,4 +134,6 @@ https://00f74ba44b8c397d97b1ab1e3750481aa6643e2b04-apidata.googleusercontent.com
 https://00f74ba44b294ad4daa03daaa551218d7a4715454a-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tt13443470_S01_E07_LAT_HD?jk=AFshE3WxunhiqrVgcBQq0KNahOW0Lz52lYeLL-JljSNR6Nen7HRyq-1R7CIrFtyVBbmKTs0OBFrayBKYWHZkp50dxytIwZLcNT38J7SLCVYm0p0mBti2gjcVBnVFj5JPS4XRX-Ip9PliY4HLb_cFhmKlBV9M7hXbKeVw2AisuiT4qJxk884FHFySGX6nWRIVxZ-yYOX3Sa0FxbrD2WhVOcAjB3Oj4E1Er2BZXy_9CVbymw1SiTaq6WKxPZV3z7vdcWA2LTxFYgmFxGgLftfBPtRz7_pVjiHMkp6Q4eBAyz3RidYbLhyqKa6B5XdRpmLTqkZa_U5i1bC6dZzCK6Ge6uSlTqFsp-WSTYglza2BSF0x56E53GE8m0lpyhILAFPhWGj1VMFEzfLdp43tdYkrv82xuwNpRGLqNEC-5f0OjKhnCaOgb6FQCbeaIVxh__1b4ENsr-sjDy0Bxnii6fRcjALsfwveceFZKtJCnyWBgsO6Fc-xfCgOoKpm93Vc-WDYXxiJz0gPS0wHZD63fZapYuZU9W1cQQj8P0odODBIpBLbT0SkHUVsZ4wFCpRGGqRaKZrmGmVaWOuF6A5FD2anEemd2SoyUgyHI6yfhD3QQJxpqZCLikJIs4tv4t1MYPN7wAw96wcb3NWBVV-Z6Xr31o2n_-nYSy3FfOO21R0MyZc2dhnZg8G_Y2fYi4QOiKwE-yYsHxNyHGMFS1pOKrCC7qbYNlykRO7FCVyS0UwdspEkRQDW7fK0PSZYaAjA9O55Xfz-gNmgzVpDCyxO4AKwNvVw-KSqYpxSmHOhO3XUtLvi09-HB6CZPPQySu-Md-nDsXIVvK8tRdlrBAw4QEhPb0mK0rdOX-4wLQT6J3RhCY7IoYp1Osu99EcAfS9sHJ0VkBePQq7hneO5aM3PcPqYuy2nsqgzp78xnGZJmjQD31u41NLFJLnIe_8RVBLWXDqUxahN_HslpcidcUiMj-i3HgzAyaIKZ2gd4src9AsHNMMRrFNFpAy17FsGbJBO3fRLikb4cTMaqlZXBeaM8kVe5_pV19Ue_iXGwNS-Sits2kDgCT_CJ3dPA16h3Xj3NqZyJy1YZZ-DKu85W1YoLU0cmv4D9NtafRLp50miEj6TPAAJ0uUon5-NZATfvVfhi7UpwZr_v2Vp9xx5dsPGBT8XBOTYiBM_mZdxGwokmiGrjYe_4nzkSEHMxigLyZdMrJ3sEmQ
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE", Comedia de terror,Merlina 1x8 (2022)
 https://860133908.tapecontent.net/radosgw/vL8224b423SYmQ/5sgkBDp4iFCsCbPIjLq8UAzCn42XVUhG9Ch-xA_LBDizjp2E9ObhwAu3S-4lKGWuMlNO4jvo9in4efVEzTdXAhhUvCMVDscwihMFde3DnZldxe-m_hZT7dAluqZjmGnPfSc2luB7nyuzROt2BNLMkx1iLdzL2MqIq-ha1lCOIJTW3MjJeesFe5qO8H1WsneTDilvCK4EtM9ReVkQBgkU2HZXvAIx4V1aIteYmhfIGlTkM0mdI60VftUcf4b7b5KjYafH6W7TffpJclS1wwjXrFEmbBZhF731XJSrAw/qrxMl2Z95pe-streamtape.mp4
+
+
 #EXT-X-ENDLIST
