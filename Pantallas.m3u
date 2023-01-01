@@ -100,6 +100,13 @@ http://51.81.208.167/movies/American%20pie%205%20(2006).mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFQJnOulIdHDniz7HrcW2bDGaiWfpQZl3qCkIN_ACpj7m9jIru" group-title="Pelicula", Acción/Aventura, Assassin's Creed (2016)
 http://51.81.208.167/movies/Assassin's_Creed_(2016).mp4
 
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfs6iyfKrzE9iTlwERjvWALb4o5nKO7VDTsvuCKZyLUfMGG2D" group-title="Pelicula - Comedia/Deportes", Comedia/Deportes, Cars 3 (2017)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Cars.3.2017.1080p-dual-lat.mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2AUdRXLabQySrYM6Z5Azl9zlIv9V7L28wXpx2JRvHBWYSTo77" group-title="Pelicula - Comedia/Deportes", Comedia/Deportes, Cars 2 (2011)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Cars.2.2011.1080p-dual-lat.mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3_Bu8aJaA_DE7bOSQ7bz3o9Y6whQ7_0PxNnBfGXQ82nE1xVRh" group-title="Pelicula - Comedia/Deportes", Comedia/Deportes, Cars 1 (2006)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Cars.2006.1080p-dual-lat.mp4
+
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Pelicula/Spider-man.homecoming.2017.1080p-dual-lat-poster.jpg" group-title="Pelicula",Acción/Aventura, Spider-Man: de regreso a casa (2017)
 http://45.179.164.59:8181/Pelicula/Spider-man.homecoming.2017.1080p-dual-lat.mp4
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Pelicula/Spider-man.2.2004.1080p-dual-lat-poster.jpg" group-title="Pelicula",Acción/Aventura, El Hombre Araña 2 (2004)
