@@ -68,7 +68,7 @@ http://www.konectar1.com/yesi/Avatar_2009.mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX0NNA56fZmz4v50L5HENXgm93TevQ59iLczKYc-rRXZiA9ImM" group-title="Pelicula", Ciencia ficción/Acción,Avatar 2 (2022)
 http://144.217.180.205/Pelicula/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXCgO-_ldjGtk6qCFGKry6bu2DPlgsrMWN6WZORhpt-xHsjZs" group-title="Pelicula", Acción/Ciencia ficción,Transformers (2007)
-http://45.179.164.59:8181/Pelicula/Transformers.2007.1080p-dual-lat.mp4
+http://45.179.164.59:8181/Peliculas/Transformers.2007.1080p-dual-lat.mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5HnL66QMr9r5d0FjIqaFvkr75t-WCZ7521mxTem5_dYU0YbR" group-title="Pelicula", Acción/Ciencia ficción,Transformers: La venganza de los caídos (2009)
 http://45.179.164.59:8181/Pelicula/Transformers.revenge.of.the.fallen.2009.1080p.imax-dual-lat.mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Pelicula/Transformers.dark.of.the.moon.2011.1080p-dual-lat-poster.jpg" group-title="Pelicula", Acción/Ciencia ficción,Transformers: El lado oscuro de la Luna (2011)
@@ -91,6 +91,15 @@ http://51.81.208.167/movies/17_otra_vez_(2009).avi
 http://51.81.208.167/movies/American%20pie%20(1999).mp4
 #EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKMeS2KFpUfEBnrxanzleHRW_laNWBVGgksXhzlDnX0brjQ3aO" group-title="Pelicula", Comedia/Romance,American Pie 2: Tu segunda vez es mejor (2001)
 http://51.81.208.167/movies/America%20pie%202%20(2001).mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuembWDk1YT3mgcN7Vs8QTvtda3HlDKNYYAMsnBM6mblBmkmk" group-title="Pelicula", Comedia/Romance,American Pie 3: La Boda (2003)
+http://51.81.208.167/movies/American%20pie%203%20(2003).mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZHfeFQ6PeFuLGpYnF_PV9ueqPU55dD5j9KEobt2Ftl48-3RW2" group-title="Pelicula", Comedia/Romance,American Pie 4: El reencuentro (2005)
+http://51.81.208.167/movies/American%20pie%204%20(2005).mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFQJnOulIdHDniz7HrcW2bDGaiWfpQZl3qCkIN_ACpj7m9jIru" group-title="Pelicula", Comedia/Romance,American Pie 5: Una fiesta de pelotas (2006)
+http://51.81.208.167/movies/American%20pie%205%20(2006).mp4
+#EXTINF:180 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFQJnOulIdHDniz7HrcW2bDGaiWfpQZl3qCkIN_ACpj7m9jIru" group-title="Pelicula", Acción/Aventura, Assassin's Creed (2016)
+http://51.81.208.167/movies/Assassin's_Creed_(2016).mp4
+
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Pelicula/Spider-man.homecoming.2017.1080p-dual-lat-poster.jpg" group-title="Pelicula",Acción/Aventura, Spider-Man: de regreso a casa (2017)
 http://45.179.164.59:8181/Pelicula/Spider-man.homecoming.2017.1080p-dual-lat.mp4
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Pelicula/Spider-man.2.2004.1080p-dual-lat-poster.jpg" group-title="Pelicula",Acción/Aventura, El Hombre Araña 2 (2004)
