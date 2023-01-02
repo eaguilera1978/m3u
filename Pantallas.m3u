@@ -138,7 +138,8 @@ http://45.179.164.59:8181/Peliculas/007%20CASINO%20ROYAL.1080p.mkv
 http://45.179.164.59:8181/Peliculas/007%20QUANTUM.1080p.mkv
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSAt2F64iKc8tSifNdOTG4ZUAfW152B4kYfw8GT40W5DHg8Hvg" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Operación Skyfall (2012)
 http://45.179.164.59:8181/Peliculas/007%20SKYFALL.1080p.LAT.mkv
-
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQY6qTkJPZNBeRLgueFPliXUPYSGG13BCwHOfVxqCvsuJaxBs" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Operación Spectre (2015)
+http://45.179.164.59:8181/Peliculas/007%20SPECTRE.1080p.LAT.mkv
 
 #PLAYLIST:SERIE
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE", Comedia de terror,Merlina 1x1 (2022)
