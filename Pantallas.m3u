@@ -49,12 +49,12 @@ http://51.81.208.167/movies/Hombres_de_negro_(1997).mp4
 http://51.81.208.167/movies/Hombres_de_negro_II_(2002).mp4
 #EXTINF:137 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-s4ESdQacZvy7hMEXzGE3jdy4Z_iryHOv9MQQxc8-z2D1iCaB" group-title="Pelicula", Ciencia ficción/Acción, Hombres de negro: internacional (2019)
 http://www.konectar1.com/yesi/Hombres_de_negro_2019.mp4
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDMAxVnp7N809Dnz8xbXlFb0QW4Kawuw3h7RzNAXipvg07on3" group-title="Pelicula", Acción/Aventura, Kung Fu Panda(2017)
-http://www.konectar1.com/yesi/Kung_Fu_Panda_2008.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDMAxVnp7N809Dnz8xbXlFb0QW4Kawuw3h7RzNAXipvg07on3" group-title="Pelicula", Acción/Aventura, Kung Fu Panda(2008)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Kung.fu.panda.2008.1080p-dual-lat.mp4
 #EXTINF:92 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://images.cdn2.buscalibre.com/fit-in/360x360/47/dc/47dcfd75f326ff2dd569daec29d32f1d.jpg" group-title="Pelicula", Acción/Aventura, Kung Fu Panda 2(2011)
-http://www.konectar1.com/yesi/Kung_Fu_Panda_2_2011.mp4
+http://45.179.164.59:8181/Peliculas%20Infantiles/Kung.fu.panda.2.2011.1080p-dual-lat.mp4
 #EXTINF:95 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu7O8Hv5P88kGgzYuBBMCBfvXEwSxH0NR1olmT-_88ayFgBeF4" group-title="Pelicula", Acción/Aventura, Kung Fu Panda 3(2016)
-http://www.konectar1.com/yesi/Kung_Fu_Panda_3_2016.mp4
+http://45.179.164.59:8181/Peliculas%20Infantiles/Kung.fu.panda.3.2016.1080p-dual-lat-r.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoNcZ-qNfp9mGpxBPci0-iravAmwiGWghj6QWi7wW1QMHew6H" group-title="Pelicula", Drama,A ciegas (2020)
 http://www.konectar1.com/yesi/A_Ciegas_2020.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ375lHr1yDVpPrQv0MDaq1G0d862KHp9BjXyb5F85bSr4BadEF" group-title="Pelicula - Ciencia ficción/Wéstern", Ciencia ficción/Wéstern, Volver al futuro I (1985)
@@ -169,8 +169,12 @@ http://45.179.164.59:8181/Peliculas%20Infantiles/Big.hero.6.2014.bluray-latino-e
 http://45.179.164.59:8181/Peliculas%20Infantiles/CLAUSULA.1.1080p.LAT.Www.Hackstore.Net.mkv
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/CLAUSULA.2.1080p.LAT.Www.Hackstore.Net-poster.jpg" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, CLAUSULA II (2014)
 http://45.179.164.59:8181/Peliculas%20Infantiles/CLAUSULA.2.1080p.LAT.Www.Hackstore.Net.mkv
+
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/CROODS.2.1080p.LAT.Www.Hackstore.Net-poster.jpg" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Los Croods 2: una nueva era (2020)
 http://45.179.164.59:8181/Peliculas%20Infantiles/CROODS.2.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIrKK7XUK4DjOqXXQDALRr3Coe0Vqnn2C930GLLxu1pnCIVcm" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Los Croods  (2013)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The.Croods.2013.bluray.720p-latino-e-ingles-subt.mp4
+
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDB0eNjQvHPhmm8YHOSfMD31e-yLyalRHbTpyeOCyDd1wenpqU" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, Pollonejo y el hámster de la oscuridad (2022)
 http://45.179.164.59:8181/Peliculas%20Infantiles/Chickenhare%20and%20the%20Hamster%20of%20Darkness.2022.5.1.mkv
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/Clifford.The.Big.Red.Dog.2021.1080p.Lat.WWW.pelisenhd.NET-poster.jpg" group-title="Pelicula - Infantil/Comedia", Aventura/Comedia, Clifford, el gran perro rojo (2021)
@@ -230,8 +234,150 @@ http://45.179.164.59:8181/Peliculas%20Infantiles/Hotel.transylvania.3.summer.vac
 http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.Train.Your.Dragon.2.2014.bluray-latino-e-ingles-subt.mp4
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.Train.Your.Dragon.2010.bluray-latino-e-ingles-subt-poster.jpg" group-title="Pelicula - Aventura/Infantil", Aventura/Infantil, Cómo entrenar a tu dragón (2010)
 http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.Train.Your.Dragon.2010.bluray-latino-e-ingles-subt.mp4
-#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.train.your.dragon.the.hidden.world.2019.1080p-dual-lat-cinecalidad.is-poster.jpg" group-title="Pelicula - Aventura/Infantil", Aventura/Infantil, Cómo entrenar a tu dragón (2019)
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.train.your.dragon.the.hidden.world.2019.1080p-dual-lat-cinecalidad.is-poster.jpg" group-title="Pelicula - Aventura/Infantil", Aventura/Infantil, Cómo entrenar a tu dragón 3 (2019)
 http://45.179.164.59:8181/Peliculas%20Infantiles/How.to.train.your.dragon.the.hidden.world.2019.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX0pHrpCI6U7gbEdRYpDaUgL8q7uwx0gDxcQC6qDmLnyHhbKgK" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era de hielo 2 (2006)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.Age.2.The.Meltdown.2006.bluray-latino-e-ingles-subt.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnQm00Bwe8ZCXj4NBT8y9HkrUlB3vo7RbSW2l5FnLK-JQW10Fa" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era de hielo 3: el origen de los dinosaurios (2009)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.Age.3.Dawn.Of.The.Dinosaurs.2009.bluray-latino-e-ingles-subt.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-rG95XTPt6Z14XqqgSaAsGYLQH9SIm8NnbH2njtbJWjd3ji1l" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era de hielo 4 (2012)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.Age.4.Continental.Drift.2012.bluray-latino-e-ingles-subt.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6ArKtB4gSWn2IkhdUWMGp3fJ_fUECfeAYXM_yQNQb23cbJMrL" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era de hielo (2002)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.Age.2002.bluray-latino-e-ingles-subt.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKPtUfJPT2Jo8AELgGXqEa7ZadoQmADFWEt0JsAsypcwz6Wax" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era del hielo: choque de mundos (2016)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.age.collision.course.2016.1080p-dual-lat.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkPwIWwO_W1b9dSkp3tj57_0MVBeqejYYSGjOMUDrVPQPAf3v" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, La era de hielo: La gran búsqueda de pascua (2016)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ice.age.the.great.egg-scapade.2016.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQFe8xrtndqWR2McqeYUOQSKDlPHumk82YC1W_BV1AZFQ7lAa" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Los increíbles 2 (2018)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Incredibles.2.2018.1080p-dual-lat-cinecalidad.to.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtRWxTbxovr1RkLqtRQejk1rDjtzhdoGs7lFws5GTp2grtK52a" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Los increíbles (2004)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The.incredibles.2004.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9ROW0arSCxRuxwgSr2DJIuk-5l9vx24AHccabErGFeblLQDIY" group-title="Pelicula - Infantil/Comedia", Infantil/Comedia, Intensa-Mente (2015)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Inside.out.2015.1080p.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcsbhjkIZbou0jkMspnRHpjh-mW4cVpnT5nDyQQujcxmj_Mttq" group-title="Pelicula - Fantasía/Aventura", Fantasía/Aventura, Kubo y la búsqueda del samurái (2016)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Kubo.and.the.two.strings.2016.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgF7J8yxXIXGnoRkd_rSxDyxld3MVl6d6NR7MUQUC_2_JRwuUj" group-title="Pelicula - Aventura/Comedia", Aventura/Comedia, Larva Pendant (2022)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Larva.Pendant.2022.1080p.WEB-DL.NF.x264.No-Lang.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRARGA-_P-7WSh2TUlBOCH_uYdiVJtzct0IpyPOogomCVVWifvS" group-title="Pelicula - Aventura/Infantil", Aventura/Infantil, Latte y la piedra de agua mágica (2019)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Latte%20and%20the%20magic%20waterstone%202019.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4SnQ-mzd_GnZiV6Mhn5JQcYwazSGyJbHuHHp32PvdBjsSfvmo" group-title="Pelicula - Infantil/Animación", Infantil/Animación, Mulán 2 (2014)
+http://45.179.164.59:8181/Peliculas%20Infantiles/MULAN.2.2004.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRooYm0BOo70nQWVFnY-QpAyU4u7lt7wboWqR7bry-t0cTceyfM" group-title="Pelicula - Infantil/Animación", Infantil/Animación, Mulan (1998)
+http://45.179.164.59:8181/Peliculas%20Infantiles/MULAN.1998.1080p.LAT.Www.Hackstore.Net.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSndn5Zsq4KWE07AvT3tUJLpfnNp3AkjnZFb3gt6JsKequUv2gZ" group-title="Pelicula - Comedia/Aventura", Comedia/Aventura, Madagascar 3: los fugitivos (2012)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Madagascar.3.2012.audio-latino-e-ingles-subt.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4k7_Af7DX1dJR0gw-zMK-7-7xrXfZ_-8UUc2RRtL1hS8tadO" group-title="Pelicula - Infantil/Fantasía", Infantil/Fantasía, El regreso de Mary Poppins (2018)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Mary.poppins.returns.2018.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTD6FnkMDjHFUx_i4F6ejdr0qVmI10Lj-G1QzMDYOfeGxAhkXil" group-title="Pelicula - Infantil/Comedia", Infantil/Comedia, Los Minions (2015)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Minions.2015.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I_NLZX7ywKTPOE6dP5IORzdjWJvBLz7ZLeyVR0HHuXieSF6l" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Moana (2016)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Moana.2016.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXwLPDL54FTa0crTnhYDxZFKEAvifGbYuoXtsldGIhsgRbyYtZ" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Raya y el último dragón (2021)
+http://45.179.164.59:8181/Peliculas%20Infantiles/RAYA.2021.1080p.LAT.Www.Hackstore.Net.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGV_MQqXkMDDVfukpukQWkUjf-t5St659AtNWolVSuSzjAA2Ko" group-title="Pelicula - Infantil/Comedia", Infantil/Comedia, Ratatouille (2007)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Ratatouille.avi
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yEl8xpdrkOPXpEOeKMfknAo6GKzyBOjrZ7iOnnxW8WSYEf48" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Río 2 (2014)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Rio.2.2014.bluray-latino-e-ingles-subt.c.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6edIH2Wh5XTrNnGYlRq8xtEMifCxzy2CKk9TMgtc&usqp=CAE&s" group-title="Pelicula - Comedia/Fantasía", Comedia/Fantasía, Shrek (2001)
+http://45.179.164.59:8181/Peliculas%20Infantiles/SHREK.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRGipD1aXe3MZI7bXujd4_9ydP3DXSSlXUOfg_Wq-Km7n_mSWSGH4BrGIfSo5sw9X4k" group-title="Pelicula - Comedia/Fantasía", Comedia/Fantasía, Shrek 2 (2004)
+http://45.179.164.59:8181/Peliculas%20Infantiles/SHREK.2.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGMOF4l0jWlwJ76Aw39eWV_E3YsZqN6m4hGRb5NLhBk_FBqYAt" group-title="Pelicula - Comedia/Fantasía", Comedia/Fantasía, Shrek tercero (2007)
+http://45.179.164.59:8181/Peliculas%20Infantiles/SHREK.3.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2daX5kShi51P3MVFKBXBX7wUqru0wqbZjS1AeVQfC&usqp=CAE&s" group-title="Pelicula - Comedia/Fantasía", Comedia/Fantasía, Shrek para siempre (2010)
+http://45.179.164.59:8181/Peliculas%20Infantiles/SHREK.4.1080p.LAT.Www.Hackstore.Net.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0H3KhmztR55pw13DDhEOoQ5MkqapKIZ6nT2leK50oUnHySvd" group-title="Pelicula - Infantil/Musical", Infantil/Musical, Sing: ¡ven y canta! (2016)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Sing.2016.1080p-dual-lat.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0H3KhmztR55pw13DDhEOoQ5MkqapKIZ6nT2leK50oUnHySvd" group-title="Pelicula - Infantil/Musical", Infantil/Musical, Sing 2: Ven y canta de nuevo (2021)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Sing.2.2021.WEB-DL.LIGERO.1080p.Dual.WwW.PelisEnHD.NeT.mkv
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZbWbL5--sAjUL1MTGXueZZXc-hY6uM3G-UGBFLkgEToi_7N9j" group-title="Pelicula - Infantil/Fantasía", Infantil/Fantasía, Los pitufos en la aldea perdida (2017)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Smurfs.the.lost.village.2017.1080p-dual-lat.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8-gC3WQjBlcj2EfQt2SfJy9fUVbgMd4ThIk15ioIono5uuYr" group-title="Pelicula - Infantil/Fantasía", Infantil/Fantasía, Los pitufos 2 (2013)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The.smurfs.2.2013.1080p-dual-lat.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeDebiKJCLYWx7cRFa0ZdXp274j28MHYHU5D_PEecvc-JkxUkU" group-title="Pelicula - Infantil/Fantasía", Infantil/Fantasía, Los pitufos (2011)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The.smurfs.2011.1080p-dual-lat.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHm4JzaMg3CO50mBo8jTPNSJU4uM2Abl9xGUad7kj70vGs2Wos" group-title="Pelicula - Comedia/Infantil", Comedia/Infantil, La estrella de Belén (2017)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The.star.2017.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMjl6lcC5WxfDAnM9POk5Btk-_jMxfaKG1_-OZXt8MchOZ5VEy" group-title="Pelicula - Comedia/Aventura", Comedia/Aventura, Los locos Addams 2 (2021)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The%20Addams%20Family%202.2021.5.1.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMjl6lcC5WxfDAnM9POk5Btk-_jMxfaKG1_-OZXt8MchOZ5VEy" group-title="Pelicula - Comedia/Aventura", Comedia/Aventura, The Last Kids on Earth Happy Apocalypse to You (2021)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The%20Last%20Kids%20on%20Earth%20Happy%20Apocalypse%20to%20You%20(2021)%201080p%20Latino.WWW.pelisenhd.NET.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgbZkVrgg-rGcMRq-DpZwLrgOhCo2Rmz4wsYyartKNvwK1yjDz" group-title="Pelicula - Infantil", Infantil, The Loud House: la película (2021)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The%20Loud%20House%20La%20Pelicula.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM0xinYb5wSlNRnztrENlxH3lPI1oCGLxvMrmbv6FCQ2VwuTCv" group-title="Pelicula - Infantil", Infantil, La princesa encantada: Una boda real (2020)
+http://45.179.164.59:8181/Peliculas%20Infantiles/The%20swan%20princess%20a%20royal%20wedding%202020.mp4
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEVPQTsMPv5q4uVyCtm5GtRQ4hCYMrC-MYx0dJsUR14HpKeMe" group-title="Pelicula - Infantil/Aventura", Infantil/Aventura, Las aventuras de Timmy Fracaso (2020)
+http://45.179.164.59:8181/Peliculas%20Infantiles/Timmy.failure.mistakes.were.made.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Tinker.Bell.And.The.Pirate.Fairy.2014.bluray-latino-e-ingles-subt.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Tinker.bell.and.the.legend.of.the.neverbeast.2014.bluray-latino-e-ingles-subt.c.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Tom.And.Jerry.Cowboy.Up.2022.1080p.Lat.WWW.pelisenhd.NET.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Toy.story.2.1999.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Toy.story.3.2010.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Toy.story.1995.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Toy.story.that.time.forgot.2014.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Travieso%20De%20la%20mansi%c3%b3n%20a%20la%20calle1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Trollhunters%20Rise%20of%20the%20Titans.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Trolls.2016.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Trolls%20Holiday%20in%20Harmony.2021.5.1%20.WwW.PelisEnHD.net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Turbo.2013.bluray-latino-e-ingles-subt.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/UN%20JEFE%20EN%20PA%c3%91ALES%202.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Up.2009.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/VIVO.2021.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/WOLFWALKERS.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Wonder.park.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Woody.woodpecker.2017.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Wreck-it.ralph.2012.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Zapatos%20Rojos%20Y%20los%20%20enanos%20infantil.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Zog%20and%20the%20Flying%20Doctors.2021.5.1.WwW.PelisEnHD.net.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/Zootopia.2016.1080p-dual-lat.mp4
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/bod%20ESPONJA.3.1080p.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/mas%20alla%20de%20la%20luna.mkv
+#EXTINF:
+http://45.179.164.59:8181/Peliculas%20Infantiles/pie%20peque%c3%b1o%202018%20infantil.mp4
+
 
 
 #PLAYLIST:SERIE
