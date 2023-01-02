@@ -132,6 +132,10 @@ https://www1052.ff-03.com/token=B4AW_o7jxwCcxin3WvkvmQ/1672449178/181.114.0.0/74
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://www.imdb.com/title/tt16375952/mediaviewer/rm2044527105/?ref_=tt_ov_i" group-title="Pelicula", Misterio, Dangerous Game: The Legacy Murder (2022)
 https://delivery-node-ramzi.voe-network.net/engine/hls2/01/08558/lxonkyp5jrnz_n/index-v1-a1.m3u8?t=gvDFFaENwFuz1dw6nNUihvDGH995PGxFOLAuvErPesA&s=1672540969&e=14400&f=42791096&node=delivery-node-ramzi.voe-network.net&i=181.114&sp=4500&asn=27882
 
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://pics.filmaffinity.com/Casino_Royale-705961145-large.jpg" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Casino Royale (2006)
+http://45.179.164.59:8181/Peliculas/007%20CASINO%20ROYAL.1080p.mkv
+
+
 #PLAYLIST:SERIE
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w1280/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg" group-title="SERIE", Comedia de terror,Merlina 1x1 (2022)
 https://updxjxcfbapgmgzdtrqg.akamai-cdn-content.com/tysxepy2h276j6cdadld7w2jekin6r7i2ozmu4cejrriux4k3ir52mzfqtiq/87451--118f43c2-5386-49ce-bce2-990b4c1d1c91--lfmw--815796-streamsb.mp4
