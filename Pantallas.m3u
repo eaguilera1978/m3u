@@ -134,6 +134,10 @@ https://delivery-node-ramzi.voe-network.net/engine/hls2/01/08558/lxonkyp5jrnz_n/
 
 #EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://pics.filmaffinity.com/Casino_Royale-705961145-large.jpg" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Casino Royale (2006)
 http://45.179.164.59:8181/Peliculas/007%20CASINO%20ROYAL.1080p.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://m.media-amazon.com/images/I/91KNFZ+llUL._SL1500_.jpg" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Quantum of Solace (2008)
+http://45.179.164.59:8181/Peliculas/007%20QUANTUM.1080p.mkv
+#EXTINF:135 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSAt2F64iKc8tSifNdOTG4ZUAfW152B4kYfw8GT40W5DHg8Hvg" group-title="Pelicula - Acción/Aventura", Acción/Aventura, 007: Operación Skyfall (2012)
+http://45.179.164.59:8181/Peliculas/007%20SKYFALL.1080p.LAT.mkv
 
 
 #PLAYLIST:SERIE
