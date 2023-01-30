@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula Infantil
+#EXTINF: -1,El Gato con Botas: El último deseo (2022),
+http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
 #EXTINF: -1,A.shaun.the.sheep.movie.farmageddon.2019.1080p-lat-cinecalidad.is.mp4,
 http://45.179.164.59:8181/Peliculas%20Infantiles/A.shaun.the.sheep.movie.farmageddon.2019.1080p-lat-cinecalidad.is.mp4
 #EXTINF: -1,A.storks.journey.2017.1080p-dual-lat.mp4,
