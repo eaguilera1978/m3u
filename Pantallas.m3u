@@ -2,6 +2,12 @@
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
 
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www5.pelisplushd.lat/poster/inhumano.jpg" group-title="Pelicula - Comedia", Comedia/Misterio, Inhumano
+https://sltube.org/e/7vjPWlqA7BLl34JK
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www5.pelisplushd.lat/poster/noise.jpg" group-title="Pelicula - Drama", Drama, Noise
+http://dl6.sermovie.xyz/Movie/2023/Noise.2023/Noise.2023.mp4
+
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://cp.noimgs.net/static/img/imagen/636ff1d1d1524.jpg" group-title="Pelicula - aventura", Aventura/Fantasía, Black Panther: Wakanda Forever
 http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
 
