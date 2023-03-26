@@ -1,6 +1,13 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://cp.noimgs.net/static/img/imagen/636ff1d1d1524.jpg" group-title="Pelicula - aventura", Aventura/Fantasía, Black Panther: Wakanda Forever
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://cp.noimgs.net/static/img/imagen/639ac5d53bd45.jpg" group-title="Pelicula - Comedia", Comedia/Infantil, Gato con Botas: El último deseo
+http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
+
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://img.cnmhstng.com/images/2021/Jurassic_World_Fallen_Kingdom923.jpg" group-title="Pelicula - Ciencia Ficcion", Ciencia Ficcion, JURASSIC WORLD: FALLEN KINGDOM
 http://144.217.180.205/Zeus/MOVIES/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfDRivu6rilz1ttGvyqPsD44Lr7KL7NpI-JHdngPfHc3cHXcSD" group-title="Pelicula - Ciencia Ficcion", Ciencia Ficcion, LUCY 2014
@@ -12890,7 +12897,5 @@ http://51.81.208.167/movies/vendetta_(2015).mp4
 #EXTINF:-1,	year_one_(2009).avi
 http://51.81.208.167/movies/year_one_(2009).avi
 
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://cp.noimgs.net/static/img/imagen/639ac5d53bd45.jpg" group-title="Pelicula - Comedia", Comedia/Infantil, Gato con Botas: El último deseo
-http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
 
 #EXT-X-ENDLIST
