@@ -1,7 +1,10 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
-
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Tetris. (2023) 
+http://45.179.164.59:8181/Peliculas/2023/Tetris.2023.720p-dual-lat/Tetris.2023.720p-dual-lat.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Super Mario Bros. (2023) 
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , ¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019) 
 http://51.81.208.167/movie/¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019).mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Amigos con Beneficios 
