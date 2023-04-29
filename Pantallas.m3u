@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , ¡Shazam! La furia de los dioses 
+http://45.179.164.59:8181/Peliculas/2023/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Tetris. (2023) 
 http://45.179.164.59:8181/Peliculas/2023/Tetris.2023.720p-dual-lat/Tetris.2023.720p-dual-lat.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Super Mario Bros. (2023) 
