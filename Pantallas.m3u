@@ -1,6 +1,32 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , John Wick Chapter 4 2023 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Ant-Man and the Wasp Quantumania 2023 720p-dual-lat http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Hunger 2023 1080P http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , The Super Mario Bros Movie 2023-RmTv http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Shazam! 2 2023 lati http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Murder Mystery 2 2023 lati http://51.81.208.167/pelis2023/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , On a Wing and a Prayer 2023 lati http://51.81.208.167/pelis2023/On.a.Wing.and.a.Prayer.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , 65 2023 lati http://51.81.208.167/pelis2023/65.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , The Whale 2022 lati http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Creed III 2023 http://51.81.208.167/pelis2023/Creed.III.2023.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Magic Mikes Last Dance 2023 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Die Hart the Movie 2023 lati http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , The System 2022 lati http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , A Man Called Otto 2022 1080p http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Knock at the Cabin 2023 http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Plane 2023 http://51.81.208.167/pelis2023/Plane.2023.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Paradise City 2022 http://51.81.208.167/pelis2023/Paradise.City.2022.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Legion of Super Heroes 2023 lati http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Teen Wolf The Movie 2023 lati http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , You People 2023 lati http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Detective Knight Independence 2023 lati http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Jung E 2023 lati http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Transfusion 2023 lati http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , House Party 2023 lati http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , John Wick Chapter 4 2023
+http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , ¡Shazam! La furia de los dioses 
 http://45.179.164.59:8181/Peliculas/2023/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Tetris. (2023) 
@@ -279,8 +305,6 @@ http://51.81.208.167/movie/steven_univers.mkv
 http://51.81.208.167/movie/the_expo.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , yesterday 
 http://51.81.208.167/movie/yesterday.mkv
-
-
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Dos tórtolos (2020) WEB 1080p Lat-Cast-Ing Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/Dos tórtolos (2020) WEB 1080p Lat-Cast-Ing.Www.SeiresHD.Com.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Downhill 2020 1080p-dual-lat-cinecalidad is 
@@ -317,8 +341,6 @@ http://51.81.208.167/gmovie/cine/The Half of It (2020) HD 1080p Latino.mkv
 http://51.81.208.167/gmovie/cine/Time.to.hunt.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Todo el dia y una noche 
 http://51.81.208.167/gmovie/cine/Todo.el.dia.y.una.noche.mkv
-
-
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , A Volar Joven avi
 http://51.81.208.167/gmovie/Cantinflas/A.Volar.Joven.avi
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Ahi Esta El Detalle 
@@ -373,8 +395,6 @@ http://51.81.208.167/gmovie/Cantinflas/elmago.avi
 http://51.81.208.167/gmovie/Cantinflas/elprofugo.avi
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , los tres mosqueteros 
 http://51.81.208.167/gmovie/Cantinflas/los.tres.mosqueteros.mkv
-
-
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , 5 è il numero perfetto 2021 lati 
 http://51.81.208.167/gmedia/premier/5.è.il.numero.perfetto.2021.lati.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , America The Motion Picture 2021 lati 
@@ -477,8 +497,6 @@ http://51.81.208.167/gmedia/premier/Trollhunters.Rise.of.the.Titans.2021.lati.mp
 http://51.81.208.167/gmedia/premier/Wish.Dragon.2021.lati.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Wrath of Man 2021 lati 
 http://51.81.208.167/gmedia/premier/Wrath.of.Man.2021.lati.mp4
-
-
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , agente cobra 
 http://51.81.208.167/gmedia/24.7/agente.cobra.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , candy candy 
@@ -1041,8 +1059,6 @@ http://51.81.208.167/2020/Mujer_Maravilla_Linaje_(2019).mkv
 http://51.81.208.167/2020/Mute.2018.mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , My_Friend_Dahmer_(2017) 
 http://51.81.208.167/2020/My_Friend_Dahmer_(2017).mkv
-
-
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , A Man Called Otto 2022 1080p 	
 http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish"  , Detective Knight Independence 2023 lati 
