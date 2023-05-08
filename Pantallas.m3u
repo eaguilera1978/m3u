@@ -1,1527 +1,1527 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", John Wick Chapter 4 2023 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ant-Man and the Wasp Quantumania 2023 720p-dual-lat http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hunger 2023 1080P http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Super Mario Bros Movie 2023-RmTv http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Shazam! 2 2023 lati http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Murder Mystery 2 2023 lati http://51.81.208.167/pelis2023/Murder.Mystery.2.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", On a Wing and a Prayer 2023 lati http://51.81.208.167/pelis2023/On.a.Wing.and.a.Prayer.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 65 2023 lati http://51.81.208.167/pelis2023/65.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Whale 2022 lati http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Creed III 2023 http://51.81.208.167/pelis2023/Creed.III.2023.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Magic Mikes Last Dance 2023 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Die Hart the Movie 2023 lati http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The System 2022 lati http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Man Called Otto 2022 1080p http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Knock at the Cabin 2023 http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Plane 2023 http://51.81.208.167/pelis2023/Plane.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Paradise City 2022 http://51.81.208.167/pelis2023/Paradise.City.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Legion of Super Heroes 2023 lati http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Teen Wolf The Movie 2023 lati http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", You People 2023 lati http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Detective Knight Independence 2023 lati http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jung E 2023 lati http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Transfusion 2023 lati http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", House Party 2023 lati http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", John Wick Chapter 4 2023
+#EXTINF:-1 group-title"PELICULA",John Wick Chapter 4 2023 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Ant-Man and the Wasp Quantumania 2023 720p-dual-lat http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Hunger 2023 1080P http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
+#EXTINF:-1 group-title"PELICULA",The Super Mario Bros Movie 2023-RmTv http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
+#EXTINF:-1 group-title"PELICULA",Shazam! 2 2023 lati http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Murder Mystery 2 2023 lati http://51.81.208.167/pelis2023/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",On a Wing and a Prayer 2023 lati http://51.81.208.167/pelis2023/On.a.Wing.and.a.Prayer.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",65 2023 lati http://51.81.208.167/pelis2023/65.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",The Whale 2022 lati http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Creed III 2023 http://51.81.208.167/pelis2023/Creed.III.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Magic Mikes Last Dance 2023 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
+#EXTINF:-1 group-title"PELICULA",Die Hart the Movie 2023 lati http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",The System 2022 lati http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
+#EXTINF:-1 group-title"PELICULA",A Man Called Otto 2022 1080p http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
+#EXTINF:-1 group-title"PELICULA",Knock at the Cabin 2023 http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
+#EXTINF:-1 group-title"PELICULA",Plane 2023 http://51.81.208.167/pelis2023/Plane.2023.mp4
+#EXTINF:-1 group-title"PELICULA",Paradise City 2022 http://51.81.208.167/pelis2023/Paradise.City.2022.mkv
+#EXTINF:-1 group-title"PELICULA",Legion of Super Heroes 2023 lati http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Teen Wolf The Movie 2023 lati http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",You People 2023 lati http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Detective Knight Independence 2023 lati http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Jung E 2023 lati http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Transfusion 2023 lati http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",House Party 2023 lati http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",John Wick Chapter 4 2023
 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", ¡Shazam! La furia de los dioses 
+#EXTINF:-1 group-title"PELICULA",¡Shazam! La furia de los dioses 
 http://45.179.164.59:8181/Peliculas/2023/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tetris. (2023) 
+#EXTINF:-1 group-title"PELICULA",Tetris. (2023) 
 http://45.179.164.59:8181/Peliculas/2023/Tetris.2023.720p-dual-lat/Tetris.2023.720p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Super Mario Bros. (2023) 
+#EXTINF:-1 group-title"PELICULA",Super Mario Bros. (2023) 
 http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", ¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019) 
+#EXTINF:-1 group-title"PELICULA",¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019) 
 http://51.81.208.167/movie/¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Amigos con Beneficios 
+#EXTINF:-1 group-title"PELICULA",Amigos con Beneficios 
 http://51.81.208.167/movie/Amigos.con.Beneficios.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Coco 
+#EXTINF:-1 group-title"PELICULA",Coco 
 http://51.81.208.167/movie/Coco.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Combate en el Desierto 2019 lati 
+#EXTINF:-1 group-title"PELICULA",Combate en el Desierto 2019 lati 
 http://51.81.208.167/movie/Combate.en.el.Desierto.2019.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dracula Dead and Loving It 1995 1080p 
+#EXTINF:-1 group-title"PELICULA",Dracula Dead and Loving It 1995 1080p 
 http://51.81.208.167/movie/Dracula.Dead.and.Loving.It.1995.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Embattled 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Embattled 2020 lati 
 http://51.81.208.167/movie/Embattled.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hombre en Llamas 
+#EXTINF:-1 group-title"PELICULA",Hombre en Llamas 
 http://51.81.208.167/movie/Hombre.en.Llamas.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jagame Thandhiram 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Jagame Thandhiram 2021 lati 
 http://51.81.208.167/movie/Jagame.Thandhiram.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jungle Cruise 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Jungle Cruise 2021 lati 
 http://51.81.208.167/movie/Jungle.Cruise.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Just Friends 2005 1080P Bluray Dual Latino 
+#EXTINF:-1 group-title"PELICULA",Just Friends 2005 1080P Bluray Dual Latino 
 http://51.81.208.167/movie/Just.Friends.2005.1080P.Bluray.Dual.Latino.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", National_Lampoon's_European_Vacation_(1985) 
+#EXTINF:-1 group-title"PELICULA",National_Lampoon's_European_Vacation_(1985) 
 http://51.81.208.167/movie/National_Lampoon's_European_Vacation_(1985).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", National_Lampoon's_Vacation_(1983) 
+#EXTINF:-1 group-title"PELICULA",National_Lampoon's_Vacation_(1983) 
 http://51.81.208.167/movie/National_Lampoon's_Vacation_(1983).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Native_Son_(2019) 
+#EXTINF:-1 group-title"PELICULA",Native_Son_(2019) 
 http://51.81.208.167/movie/Native_Son_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Next_Gen_(2018) 
+#EXTINF:-1 group-title"PELICULA",Next_Gen_(2018) 
 http://51.81.208.167/movie/Next_Gen_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Night_School_(2018) 
+#EXTINF:-1 group-title"PELICULA",Night_School_(2018) 
 http://51.81.208.167/movie/Night_School_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Once_Upon_a_Deadpool_(2018) 
+#EXTINF:-1 group-title"PELICULA",Once_Upon_a_Deadpool_(2018) 
 http://51.81.208.167/movie/Once_Upon_a_Deadpool_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Open_Water_3_Cage_Dive_(2017) 
+#EXTINF:-1 group-title"PELICULA",Open_Water_3_Cage_Dive_(2017) 
 http://51.81.208.167/movie/Open_Water_3_Cage_Dive_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Parasite_2019 
+#EXTINF:-1 group-title"PELICULA",Parasite_2019 
 http://51.81.208.167/movie/Parasite_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Patient_Zero_(2018) 
+#EXTINF:-1 group-title"PELICULA",Patient_Zero_(2018) 
 http://51.81.208.167/movie/Patient_Zero_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Patrick_(2018) 
+#EXTINF:-1 group-title"PELICULA",Patrick_(2018) 
 http://51.81.208.167/movie/Patrick_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Peppermint_(2018) 
+#EXTINF:-1 group-title"PELICULA",Peppermint_(2018) 
 http://51.81.208.167/movie/Peppermint_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Perdí_mi_cuerpo_(2019) 
+#EXTINF:-1 group-title"PELICULA",Perdí_mi_cuerpo_(2019) 
 http://51.81.208.167/movie/Perdí_mi_cuerpo_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Peter_Pan_The_Quest_for_the_Never_Book_(2018) 
+#EXTINF:-1 group-title"PELICULA",Peter_Pan_The_Quest_for_the_Never_Book_(2018) 
 http://51.81.208.167/movie/Peter_Pan_The_Quest_for_the_Never_Book_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pilgrimage_(2017) 
+#EXTINF:-1 group-title"PELICULA",Pilgrimage_(2017) 
 http://51.81.208.167/movie/Pilgrimage_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Playing_with_Fire_2019 
+#EXTINF:-1 group-title"PELICULA",Playing_with_Fire_2019 
 http://51.81.208.167/movie/Playing_with_Fire_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pokémon_the_Movie_The_Power_of_Us_(2018) 
+#EXTINF:-1 group-title"PELICULA",Pokémon_the_Movie_The_Power_of_Us_(2018) 
 http://51.81.208.167/movie/Pokémon_the_Movie_The_Power_of_Us_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Polar_2019 
+#EXTINF:-1 group-title"PELICULA",Polar_2019 
 http://51.81.208.167/movie/Polar_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pope_Francis_A_Man_of_His_Word_(2018) 
+#EXTINF:-1 group-title"PELICULA",Pope_Francis_A_Man_of_His_Word_(2018) 
 http://51.81.208.167/movie/Pope_Francis_A_Man_of_His_Word_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Proyecto_Géminis_(2019) 
+#EXTINF:-1 group-title"PELICULA",Proyecto_Géminis_(2019) 
 http://51.81.208.167/movie/Proyecto_Géminis_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Questione_di_Karma_(2017) 
+#EXTINF:-1 group-title"PELICULA",Questione_di_Karma_(2017) 
 http://51.81.208.167/movie/Questione_di_Karma_(2017).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ready_Player_One_Comienza_el_Juego_(2018) 
+#EXTINF:-1 group-title"PELICULA",Ready_Player_One_Comienza_el_Juego_(2018) 
 http://51.81.208.167/movie/Ready_Player_One_Comienza_el_Juego_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Recuperando_a_mi_Ex_2018 
+#EXTINF:-1 group-title"PELICULA",Recuperando_a_mi_Ex_2018 
 http://51.81.208.167/movie/Recuperando_a_mi_Ex_2018.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Reign_of_the_Supermen_(2019) 
+#EXTINF:-1 group-title"PELICULA",Reign_of_the_Supermen_(2019) 
 http://51.81.208.167/movie/Reign_of_the_Supermen_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Reprisal_(2018) 
+#EXTINF:-1 group-title"PELICULA",Reprisal_(2018) 
 http://51.81.208.167/movie/Reprisal_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rescate_en_Entebbe_(2018) 
+#EXTINF:-1 group-title"PELICULA",Rescate_en_Entebbe_(2018) 
 http://51.81.208.167/movie/Rescate_en_Entebbe_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Robin_Hood_(2018) 
+#EXTINF:-1 group-title"PELICULA",Robin_Hood_(2018) 
 http://51.81.208.167/movie/Robin_Hood_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rocketman 
+#EXTINF:-1 group-title"PELICULA",Rocketman 
 http://51.81.208.167/movie/Rocketman.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Roma 2018 
+#EXTINF:-1 group-title"PELICULA",Roma 2018 
 http://51.81.208.167/movie/Roma.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Roman_J _Israel,_Esq _(2017) 
+#EXTINF:-1 group-title"PELICULA",Roman_J _Israel,_Esq _(2017) 
 http://51.81.208.167/movie/Roman_J._Israel,_Esq._(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", S W A T _Under_Siege_(2017) 
+#EXTINF:-1 group-title"PELICULA",S W A T _Under_Siege_(2017) 
 http://51.81.208.167/movie/S.W.A.T._Under_Siege_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", S007733(2019) 
+#EXTINF:-1 group-title"PELICULA",S007733(2019) 
 http://51.81.208.167/movie/S007733(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Searching_(2018) 
+#EXTINF:-1 group-title"PELICULA",Searching_(2018) 
 http://51.81.208.167/movie/Searching_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Second_Act_(2018) 
+#EXTINF:-1 group-title"PELICULA",Second_Act_(2018) 
 http://51.81.208.167/movie/Second_Act_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Secrets_in_a_Small_Town_(2019) 
+#EXTINF:-1 group-title"PELICULA",Secrets_in_a_Small_Town_(2019) 
 http://51.81.208.167/movie/Secrets_in_a_Small_Town_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", See_You_Yesterday_2019 
+#EXTINF:-1 group-title"PELICULA",See_You_Yesterday_2019 
 http://51.81.208.167/movie/See_You_Yesterday_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Serenity_(2019) 
+#EXTINF:-1 group-title"PELICULA",Serenity_(2019) 
 http://51.81.208.167/movie/Serenity_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sgt _Stubby_An_American_Hero_(2018) 
+#EXTINF:-1 group-title"PELICULA",Sgt _Stubby_An_American_Hero_(2018) 
 http://51.81.208.167/movie/Sgt._Stubby_An_American_Hero_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Shaft_(2019) 
+#EXTINF:-1 group-title"PELICULA",Shaft_(2019) 
 http://51.81.208.167/movie/Shaft_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Show dogs 2018 
+#EXTINF:-1 group-title"PELICULA",Show dogs 2018 
 http://51.81.208.167/movie/Show.dogs.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sierra_Burgess_es_una_Loser_(2018) 
+#EXTINF:-1 group-title"PELICULA",Sierra_Burgess_es_una_Loser_(2018) 
 http://51.81.208.167/movie/Sierra_Burgess_es_una_Loser_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sleepless_(2017) 
+#EXTINF:-1 group-title"PELICULA",Sleepless_(2017) 
 http://51.81.208.167/movie/Sleepless_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Someone_Great_(2019) 
+#EXTINF:-1 group-title"PELICULA",Someone_Great_(2019) 
 http://51.81.208.167/movie/Someone_Great_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sorry_to_Brother_you_(2018) 
+#EXTINF:-1 group-title"PELICULA",Sorry_to_Brother_you_(2018) 
 http://51.81.208.167/movie/Sorry_to_Brother_you_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Soul_Hunters_(2019) 
+#EXTINF:-1 group-title"PELICULA",Soul_Hunters_(2019) 
 http://51.81.208.167/movie/Soul_Hunters_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider-Man_2_(2004) 
+#EXTINF:-1 group-title"PELICULA",Spider-Man_2_(2004) 
 http://51.81.208.167/movie/Spider-Man_2_(2004).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider-Man_3_(2007) 
+#EXTINF:-1 group-title"PELICULA",Spider-Man_3_(2007) 
 http://51.81.208.167/movie/Spider-Man_3_(2007).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider-Man_Homecoming_2017 
+#EXTINF:-1 group-title"PELICULA",Spider-Man_Homecoming_2017 
 http://51.81.208.167/movie/Spider-Man_Homecoming_2017.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider_Man_Un_nuevo_universo_2018 
+#EXTINF:-1 group-title"PELICULA",Spider_Man_Un_nuevo_universo_2018 
 http://51.81.208.167/movie/Spider_Man_Un_nuevo_universo_2018.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", St _Agatha_2019 
+#EXTINF:-1 group-title"PELICULA",St _Agatha_2019 
 http://51.81.208.167/movie/St._Agatha_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Stray_(2019) 
+#EXTINF:-1 group-title"PELICULA",Stray_(2019) 
 http://51.81.208.167/movie/Stray_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Stronger_(2017) 
+#EXTINF:-1 group-title"PELICULA",Stronger_(2017) 
 http://51.81.208.167/movie/Stronger_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Super_papa_(2017) 
+#EXTINF:-1 group-title"PELICULA",Super_papa_(2017) 
 http://51.81.208.167/movie/Super_papa_(2017).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Superfly 2018 
+#EXTINF:-1 group-title"PELICULA",Superfly 2018 
 http://51.81.208.167/movie/Superfly.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Svaha_The_Sixth_Finger_2019 
+#EXTINF:-1 group-title"PELICULA",Svaha_The_Sixth_Finger_2019 
 http://51.81.208.167/movie/Svaha_The_Sixth_Finger_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", T-34_T55(2018) 
+#EXTINF:-1 group-title"PELICULA",T-34_T55(2018) 
 http://51.81.208.167/movie/T-34_T55(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tadeo_Jones_2_El_Secreto_del_Rey_Midas_(2017) 
+#EXTINF:-1 group-title"PELICULA",Tadeo_Jones_2_El_Secreto_del_Rey_Midas_(2017) 
 http://51.81.208.167/movie/Tadeo_Jones_2_El_Secreto_del_Rey_Midas_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Terminator dark fate 2019 
+#EXTINF:-1 group-title"PELICULA",Terminator dark fate 2019 
 http://51.81.208.167/movie/Terminator.dark.fate.2019.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Terminator_Genisys_(2015) 
+#EXTINF:-1 group-title"PELICULA",Terminator_Genisys_(2015) 
 http://51.81.208.167/movie/Terminator_Genisys_(2015).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Addams Family 2019 
+#EXTINF:-1 group-title"PELICULA",The Addams Family 2019 
 http://51.81.208.167/movie/The.Addams.Family.2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Aeronauts 2019 
+#EXTINF:-1 group-title"PELICULA",The Aeronauts 2019 
 http://51.81.208.167/movie/The.Aeronauts.2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Rookie 2002 1080p 
+#EXTINF:-1 group-title"PELICULA",The Rookie 2002 1080p 
 http://51.81.208.167/movie/The.Rookie.2002.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Two Popes 2019 
+#EXTINF:-1 group-title"PELICULA",The Two Popes 2019 
 http://51.81.208.167/movie/The.Two.Popes.2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The christmas chronicles 2018 
+#EXTINF:-1 group-title"PELICULA",The christmas chronicles 2018 
 http://51.81.208.167/movie/The.christmas.chronicles.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The death of superman 2018 
+#EXTINF:-1 group-title"PELICULA",The death of superman 2018 
 http://51.81.208.167/movie/The.death.of.superman.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The equalizer_2 
+#EXTINF:-1 group-title"PELICULA",The equalizer_2 
 http://51.81.208.167/movie/The.equalizer_2.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The house with a clock in its walls 2018 
+#EXTINF:-1 group-title"PELICULA",The house with a clock in its walls 2018 
 http://51.81.208.167/movie/The.house.with.a.clock.in.its.walls.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The predator 2018 
+#EXTINF:-1 group-title"PELICULA",The predator 2018 
 http://51.81.208.167/movie/The.predator.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The princess switch 2018 
+#EXTINF:-1 group-title"PELICULA",The princess switch 2018 
 http://51.81.208.167/movie/The.princess.switch.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Amazing_Spider-Man_(2012) 
+#EXTINF:-1 group-title"PELICULA",The_Amazing_Spider-Man_(2012) 
 http://51.81.208.167/movie/The_Amazing_Spider-Man_(2012).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Amazing_Spider-Man_2_(2014) 
+#EXTINF:-1 group-title"PELICULA",The_Amazing_Spider-Man_2_(2014) 
 http://51.81.208.167/movie/The_Amazing_Spider-Man_2_(2014).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Christ_Slayer_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Christ_Slayer_(2019) 
 http://51.81.208.167/movie/The_Christ_Slayer_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Divorce_Party_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Divorce_Party_(2019) 
 http://51.81.208.167/movie/The_Divorce_Party_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Gangster,_The_Cop,_The_Devil_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Gangster,_The_Cop,_The_Devil_(2019) 
 http://51.81.208.167/movie/The_Gangster,_The_Cop,_The_Devil_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Girl_with_All_the_Gifts_(2016) 
+#EXTINF:-1 group-title"PELICULA",The_Girl_with_All_the_Gifts_(2016) 
 http://51.81.208.167/movie/The_Girl_with_All_the_Gifts_(2016).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Guardians_(2017) 
+#EXTINF:-1 group-title"PELICULA",The_Guardians_(2017) 
 http://51.81.208.167/movie/The_Guardians_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Happy_Prince_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Happy_Prince_(2018) 
 http://51.81.208.167/movie/The_Happy_Prince_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Hate_U_Give_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Hate_U_Give_(2018) 
 http://51.81.208.167/movie/The_Hate_U_Give_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Hot_Chick_(2002) 
+#EXTINF:-1 group-title"PELICULA",The_Hot_Chick_(2002) 
 http://51.81.208.167/movie/The_Hot_Chick_(2002).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Irishman_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Irishman_(2019) 
 http://51.81.208.167/movie/The_Irishman_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Isle_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Isle_(2019) 
 http://51.81.208.167/movie/The_Isle_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Last_Summer_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_Last_Summer_(2019) 
 http://51.81.208.167/movie/The_Last_Summer_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Little_Stranger_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Little_Stranger_(2018) 
 http://51.81.208.167/movie/The_Little_Stranger_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Little_Witch_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Little_Witch_(2018) 
 http://51.81.208.167/movie/The_Little_Witch_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Miracle_Season_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Miracle_Season_(2018) 
 http://51.81.208.167/movie/The_Miracle_Season_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Mummy_(2017) 
+#EXTINF:-1 group-title"PELICULA",The_Mummy_(2017) 
 http://51.81.208.167/movie/The_Mummy_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Old_Man_&_the_Gun_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Old_Man_&_the_Gun_(2018) 
 http://51.81.208.167/movie/The_Old_Man_&_the_Gun_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Seven_Deadly_Sins_Prisoners_of_the_Sky_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Seven_Deadly_Sins_Prisoners_of_the_Sky_(2018) 
 http://51.81.208.167/movie/The_Seven_Deadly_Sins_Prisoners_of_the_Sky_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_Spy_Who_Dumped_Me_(2018) 
+#EXTINF:-1 group-title"PELICULA",The_Spy_Who_Dumped_Me_(2018) 
 http://51.81.208.167/movie/The_Spy_Who_Dumped_Me_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The_lego_movie_2_(2019) 
+#EXTINF:-1 group-title"PELICULA",The_lego_movie_2_(2019) 
 http://51.81.208.167/movie/The_lego_movie_2_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Todas_las_pecas_del_mundo_(2019) 
+#EXTINF:-1 group-title"PELICULA",Todas_las_pecas_del_mundo_(2019) 
 http://51.81.208.167/movie/Todas_las_pecas_del_mundo_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Trading Places 
+#EXTINF:-1 group-title"PELICULA",Trading Places 
 http://51.81.208.167/movie/Trading.Places.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Trauma_Center_(2019) 
+#EXTINF:-1 group-title"PELICULA",Trauma_Center_(2019) 
 http://51.81.208.167/movie/Trauma_Center_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Trico_Tri_Happy_Halloween_(2018) 
+#EXTINF:-1 group-title"PELICULA",Trico_Tri_Happy_Halloween_(2018) 
 http://51.81.208.167/movie/Trico_Tri_Happy_Halloween_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Triple_frontera_(2019) 
+#EXTINF:-1 group-title"PELICULA",Triple_frontera_(2019) 
 http://51.81.208.167/movie/Triple_frontera_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tu_vivras_ma_fille_(2018) 
+#EXTINF:-1 group-title"PELICULA",Tu_vivras_ma_fille_(2018) 
 http://51.81.208.167/movie/Tu_vivras_ma_fille_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Un_Buen_Día_en_el_Vecindario_(2019)_ 
+#EXTINF:-1 group-title"PELICULA",Un_Buen_Día_en_el_Vecindario_(2019)_ 
 http://51.81.208.167/movie/Un_Buen_Día_en_el_Vecindario_(2019)_.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Untogether_(2019) 
+#EXTINF:-1 group-title"PELICULA",Untogether_(2019) 
 http://51.81.208.167/movie/Untogether_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Us_(2019) 
+#EXTINF:-1 group-title"PELICULA",Us_(2019) 
 http://51.81.208.167/movie/Us_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Velvet_Buzzsaw_(2019) 
+#EXTINF:-1 group-title"PELICULA",Velvet_Buzzsaw_(2019) 
 http://51.81.208.167/movie/Velvet_Buzzsaw_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Venom 2018 
+#EXTINF:-1 group-title"PELICULA",Venom 2018 
 http://51.81.208.167/movie/Venom.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Watch_Residue 
+#EXTINF:-1 group-title"PELICULA",Watch_Residue 
 http://51.81.208.167/movie/Watch_Residue.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Welcome_Home_(2018) 
+#EXTINF:-1 group-title"PELICULA",Welcome_Home_(2018) 
 http://51.81.208.167/movie/Welcome_Home_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wifi_Ralph_2018 
+#EXTINF:-1 group-title"PELICULA",Wifi_Ralph_2018 
 http://51.81.208.167/movie/Wifi_Ralph_2018.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wonder_Park_(2019) 
+#EXTINF:-1 group-title"PELICULA",Wonder_Park_(2019) 
 http://51.81.208.167/movie/Wonder_Park_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Woody_Woodpecker_(2017) 
+#EXTINF:-1 group-title"PELICULA",Woody_Woodpecker_(2017) 
 http://51.81.208.167/movie/Woody_Woodpecker_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Zombieland_Double_Tap_(2019) 
+#EXTINF:-1 group-title"PELICULA",Zombieland_Double_Tap_(2019) 
 http://51.81.208.167/movie/Zombieland_Double_Tap_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Zombieland_Tiro_de_gracia_(2019) 
+#EXTINF:-1 group-title"PELICULA",Zombieland_Tiro_de_gracia_(2019) 
 http://51.81.208.167/movie/Zombieland_Tiro_de_gracia_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", black_panther 
+#EXTINF:-1 group-title"PELICULA",black_panther 
 http://51.81.208.167/movie/black_panther.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", capharnaum_(2018) 
+#EXTINF:-1 group-title"PELICULA",capharnaum_(2018) 
 http://51.81.208.167/movie/capharnaum_(2018).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", cementerio_maldito 
+#EXTINF:-1 group-title"PELICULA",cementerio_maldito 
 http://51.81.208.167/movie/cementerio_maldito.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", como_flechas 
+#EXTINF:-1 group-title"PELICULA",como_flechas 
 http://51.81.208.167/movie/como_flechas.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", el-cavernicola 2018 
+#EXTINF:-1 group-title"PELICULA",el-cavernicola 2018 
 http://51.81.208.167/movie/el-cavernicola.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", from_the_dead 
+#EXTINF:-1 group-title"PELICULA",from_the_dead 
 http://51.81.208.167/movie/from_the_dead.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", hellboy2019 
+#EXTINF:-1 group-title"PELICULA",hellboy2019 
 http://51.81.208.167/movie/hellboy2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", holmes 
+#EXTINF:-1 group-title"PELICULA",holmes 
 http://51.81.208.167/movie/holmes.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", hombre-al-agua 2018 
+#EXTINF:-1 group-title"PELICULA",hombre-al-agua 2018 
 http://51.81.208.167/movie/hombre-al-agua.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", jamon jamon 
+#EXTINF:-1 group-title"PELICULA",jamon jamon 
 http://51.81.208.167/movie/jamon.jamon.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", juanita_(2019) 
+#EXTINF:-1 group-title"PELICULA",juanita_(2019) 
 http://51.81.208.167/movie/juanita_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", l Resort to Love 2021 lati 
+#EXTINF:-1 group-title"PELICULA",l Resort to Love 2021 lati 
 http://51.81.208.167/movie/l.Resort.to.Love.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", nancy_d 
+#EXTINF:-1 group-title"PELICULA",nancy_d 
 http://51.81.208.167/movie/nancy_d.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", objetivo 
+#EXTINF:-1 group-title"PELICULA",objetivo 
 http://51.81.208.167/movie/objetivo.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", oh_ramona 
+#EXTINF:-1 group-title"PELICULA",oh_ramona 
 http://51.81.208.167/movie/oh_ramona.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", rebelion 
+#EXTINF:-1 group-title"PELICULA",rebelion 
 http://51.81.208.167/movie/rebelion.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", steven_univers 
+#EXTINF:-1 group-title"PELICULA",steven_univers 
 http://51.81.208.167/movie/steven_univers.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", the_expo 
+#EXTINF:-1 group-title"PELICULA",the_expo 
 http://51.81.208.167/movie/the_expo.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", yesterday 
+#EXTINF:-1 group-title"PELICULA",yesterday 
 http://51.81.208.167/movie/yesterday.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dos tórtolos (2020) WEB 1080p Lat-Cast-Ing Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Dos tórtolos (2020) WEB 1080p Lat-Cast-Ing Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/Dos tórtolos (2020) WEB 1080p Lat-Cast-Ing.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Downhill 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Downhill 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/Downhill.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El robo del siglo (2020) WEB 1080p Lat Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",El robo del siglo (2020) WEB 1080p Lat Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/El robo del siglo (2020) WEB 1080p Lat.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Gretel & Hansel (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Gretel & Hansel (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/Gretel & Hansel (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Justice League Dark Apokolips War (2020) WEB-DL 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Justice League Dark Apokolips War (2020) WEB-DL 1080p Latino 
 http://51.81.208.167/gmovie/cine/Justice.League.Dark.Apokolips.War.(2020).WEB-DL.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Isla de la Fantasía (2020) UNRATED 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",La Isla de la Fantasía (2020) UNRATED 1080p Latino 
 http://51.81.208.167/gmovie/cine/La.Isla.de.la.Fantasía.(2020).UNRATED.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La corazonada (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",La corazonada (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/La corazonada (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La otra Missy (2020) WEB 1080p Lat-Cast_Ing Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",La otra Missy (2020) WEB 1080p Lat-Cast_Ing Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/La otra Missy (2020) WEB 1080p Lat-Cast_Ing.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Misión de Rescate (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Misión de Rescate (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/Misión de Rescate (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No andaba muerto estaba de parranda 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",No andaba muerto estaba de parranda 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/No.andaba.muerto.estaba.de.parranda.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rebelion de los godinez 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Rebelion de los godinez 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/Rebelion.de.los.godinez.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rich in Love 2020 NF WEB-DL 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Rich in Love 2020 NF WEB-DL 1080p Latino 
 http://51.81.208.167/gmovie/cine/Rich.in.Love.2020.NF.WEB-DL.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Scoob! (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Scoob! (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/gmovie/cine/Scoob! (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Survive the night 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Survive the night 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/Survive.the.night.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The hunt 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The hunt 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/The.hunt.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Half of It (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",The Half of It (2020) HD 1080p Latino 
 http://51.81.208.167/gmovie/cine/The Half of It (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Time to hunt 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Time to hunt 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/gmovie/cine/Time.to.hunt.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Todo el dia y una noche 
+#EXTINF:-1 group-title"PELICULA",Todo el dia y una noche 
 http://51.81.208.167/gmovie/cine/Todo.el.dia.y.una.noche.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Volar Joven avi
+#EXTINF:-1 group-title"PELICULA",A Volar Joven avi
 http://51.81.208.167/gmovie/Cantinflas/A.Volar.Joven.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ahi Esta El Detalle 
+#EXTINF:-1 group-title"PELICULA",Ahi Esta El Detalle 
 http://51.81.208.167/gmovie/Cantinflas/Ahi.Esta.El.Detalle.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Asi es mi Tierra avi
+#EXTINF:-1 group-title"PELICULA",Asi es mi Tierra avi
 http://51.81.208.167/gmovie/Cantinflas/Asi.es.mi.Tierra.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bolero Raquel avi
+#EXTINF:-1 group-title"PELICULA",Bolero Raquel avi
 http://51.81.208.167/gmovie/Cantinflas/Bolero.Raquel.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Barrendero mpg
+#EXTINF:-1 group-title"PELICULA",El Barrendero mpg
 http://51.81.208.167/gmovie/Cantinflas/El.Barrendero.mpg
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Circo 
+#EXTINF:-1 group-title"PELICULA",El Circo 
 http://51.81.208.167/gmovie/Cantinflas/El.Circo.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Gendarme Desconocido 
+#EXTINF:-1 group-title"PELICULA",El Gendarme Desconocido 
 http://51.81.208.167/gmovie/Cantinflas/El.Gendarme.Desconocido.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Ministro y Yo avi
+#EXTINF:-1 group-title"PELICULA",El Ministro y Yo avi
 http://51.81.208.167/gmovie/Cantinflas/El.Ministro.y.Yo.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Padrecito 
+#EXTINF:-1 group-title"PELICULA",El Padrecito 
 http://51.81.208.167/gmovie/Cantinflas/El.Padrecito.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Patrullero 777 
+#EXTINF:-1 group-title"PELICULA",El Patrullero 777 
 http://51.81.208.167/gmovie/Cantinflas/El.Patrullero.777.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Senor Doctor 
+#EXTINF:-1 group-title"PELICULA",El Senor Doctor 
 http://51.81.208.167/gmovie/Cantinflas/El.Senor.Doctor.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Siete Machos 
+#EXTINF:-1 group-title"PELICULA",El Siete Machos 
 http://51.81.208.167/gmovie/Cantinflas/El.Siete.Machos.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Super Sabio avi
+#EXTINF:-1 group-title"PELICULA",El Super Sabio avi
 http://51.81.208.167/gmovie/Cantinflas/El.Super.Sabio.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El analfabeto mpg
+#EXTINF:-1 group-title"PELICULA",El analfabeto mpg
 http://51.81.208.167/gmovie/Cantinflas/El.analfabeto.mpg
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El bombero atomico 
+#EXTINF:-1 group-title"PELICULA",El bombero atomico 
 http://51.81.208.167/gmovie/Cantinflas/El.bombero.atomico.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El profe 
+#EXTINF:-1 group-title"PELICULA",El profe 
 http://51.81.208.167/gmovie/Cantinflas/El.profe.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", GranHotell mpg
+#EXTINF:-1 group-title"PELICULA",GranHotell mpg
 http://51.81.208.167/gmovie/Cantinflas/GranHotell.mpg
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ministroyyo avi
+#EXTINF:-1 group-title"PELICULA",Ministroyyo avi
 http://51.81.208.167/gmovie/Cantinflas/Ministroyyo.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Por mis Pistolas 
+#EXTINF:-1 group-title"PELICULA",Por mis Pistolas 
 http://51.81.208.167/gmovie/Cantinflas/Por.mis.Pistolas.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Romeo y Julieta 
+#EXTINF:-1 group-title"PELICULA",Romeo y Julieta 
 http://51.81.208.167/gmovie/Cantinflas/Romeo.y.Julieta.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", SiYoFueraDiputado mpg
+#EXTINF:-1 group-title"PELICULA",SiYoFueraDiputado mpg
 http://51.81.208.167/gmovie/Cantinflas/SiYoFueraDiputado.mpg
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", SuExcelencia avi
+#EXTINF:-1 group-title"PELICULA",SuExcelencia avi
 http://51.81.208.167/gmovie/Cantinflas/SuExcelencia.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sube y baja 
+#EXTINF:-1 group-title"PELICULA",Sube y baja 
 http://51.81.208.167/gmovie/Cantinflas/Sube.y.baja.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Un Dia Con el Diablo 
+#EXTINF:-1 group-title"PELICULA",Un Dia Con el Diablo 
 http://51.81.208.167/gmovie/Cantinflas/Un.Dia.Con.el.Diablo.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", elmago avi
+#EXTINF:-1 group-title"PELICULA",elmago avi
 http://51.81.208.167/gmovie/Cantinflas/elmago.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", elprofugo avi
+#EXTINF:-1 group-title"PELICULA",elprofugo avi
 http://51.81.208.167/gmovie/Cantinflas/elprofugo.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", los tres mosqueteros 
+#EXTINF:-1 group-title"PELICULA",los tres mosqueteros 
 http://51.81.208.167/gmovie/Cantinflas/los.tres.mosqueteros.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 5 è il numero perfetto 2021 lati 
+#EXTINF:-1 group-title"PELICULA",5 è il numero perfetto 2021 lati 
 http://51.81.208.167/gmedia/premier/5.è.il.numero.perfetto.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", America The Motion Picture 2021 lati 
+#EXTINF:-1 group-title"PELICULA",America The Motion Picture 2021 lati 
 http://51.81.208.167/gmedia/premier/America.The.Motion.Picture.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Batman The Long Halloween Part One 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Batman The Long Halloween Part One 2021 lati 
 http://51.81.208.167/gmedia/premier/Batman.The.Long.Halloween.Part.One.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bia Un mundo al revés 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Bia Un mundo al revés 2021 lati 
 http://51.81.208.167/gmedia/premier/Bia.Un.mundo.al.revés.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Black Widow 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Black Widow 2021 lati 
 http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Body Brokers 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Body Brokers 2021 lati 
 http://51.81.208.167/gmedia/premier/Body.Brokers.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Boss Level  2021 
+#EXTINF:-1 group-title"PELICULA",Boss Level  2021 
 http://51.81.208.167/gmedia/premier/Boss.Level..2021.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", City of Lies 2018 lati 
+#EXTINF:-1 group-title"PELICULA",City of Lies 2018 lati 
 http://51.81.208.167/gmedia/premier/City.of.Lies.2018.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Coming 2 america 2021 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Coming 2 america 2021 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/gmedia/premier/Coming.2.america.2021.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cruella 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Cruella 2021 lati 
 http://51.81.208.167/gmedia/premier/Cruella.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dead Reckoning 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Dead Reckoning 2020 lati 
 http://51.81.208.167/gmedia/premier/Dead.Reckoning.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Deep 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Deep 2021 lati 
 http://51.81.208.167/gmedia/premier/Deep.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El exorcismo de Carmen Farías 2021 lati 
+#EXTINF:-1 group-title"PELICULA",El exorcismo de Carmen Farías 2021 lati 
 http://51.81.208.167/gmedia/premier/El.exorcismo.de.Carmen.Farías.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fast & Furious 9 lati dual 2021 
+#EXTINF:-1 group-title"PELICULA",Fast & Furious 9 lati dual 2021 
 http://51.81.208.167/gmedia/premier/Fast.&.Furious.9.lati.dual.2021.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fatherhood 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Fatherhood 2021 lati 
 http://51.81.208.167/gmedia/premier/Fatherhood.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fear Street 3 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Fear Street 3 2021 lati 
 http://51.81.208.167/gmedia/premier/Fear.Street.3.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Free Guy 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Free Guy 2021 lati 
 http://51.81.208.167/gmedia/premier/Free.Guy.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Girl 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Girl 2020 lati 
 http://51.81.208.167/gmedia/premier/Girl.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Good on Paper 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Good on Paper 2021 lati 
 http://51.81.208.167/gmedia/premier/Good.on.Paper.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Great White 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Great White 2021 lati 
 http://51.81.208.167/gmedia/premier/Great.White.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hitman's Wife's Bodyguard 2021 1080P-Dual-Lat-Cine-Calidad Com 
+#EXTINF:-1 group-title"PELICULA",Hitman's Wife's Bodyguard 2021 1080P-Dual-Lat-Cine-Calidad Com 
 http://51.81.208.167/gmedia/premier/Hitman's.Wife's.Bodyguard.2021.1080P-Dual-Lat-Cine-Calidad.Com.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Justice League The Snyder Cut 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Justice League The Snyder Cut 2021 lati 
 http://51.81.208.167/gmedia/premier/Justice.League.The.Snyder.Cut.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La casa de las flores la película 2021 lati 
+#EXTINF:-1 group-title"PELICULA",La casa de las flores la película 2021 lati 
 http://51.81.208.167/gmedia/premier/La.casa.de.las.flores.la.película.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La nueva Cenicienta Superestrella 2021 lat 
+#EXTINF:-1 group-title"PELICULA",La nueva Cenicienta Superestrella 2021 lat 
 http://51.81.208.167/gmedia/premier/La.nueva.Cenicienta.Superestrella.2021.lat.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Luca 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Luca 2021 lati 
 http://51.81.208.167/gmedia/premier/Luca.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mayor Grom Chumnoy Doktor 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Mayor Grom Chumnoy Doktor 2021 lati 
 http://51.81.208.167/gmedia/premier/Mayor.Grom.Chumnoy.Doktor.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Midnight in the Switchgrass 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Midnight in the Switchgrass 2021 lati 
 http://51.81.208.167/gmedia/premier/Midnight.in.the.Switchgrass.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mortal Kombat 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Mortal Kombat 2021 lati 
 http://51.81.208.167/gmedia/premier/Mortal.Kombat.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No Sudden Move 2021 lati 
+#EXTINF:-1 group-title"PELICULA",No Sudden Move 2021 lati 
 http://51.81.208.167/gmedia/premier/No.Sudden.Move.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Nobody 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Nobody 2021 lati 
 http://51.81.208.167/gmedia/premier/Nobody.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ooops The Adventure Continues 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Ooops The Adventure Continues 2020 lati 
 http://51.81.208.167/gmedia/premier/Ooops.The.Adventure.Continues.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Penguin Bloom 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Penguin Bloom 2020 lati 
 http://51.81.208.167/gmedia/premier/Penguin.Bloom.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Peter Rabbit 2 The Runaway 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Peter Rabbit 2 The Runaway 2021 lati 
 http://51.81.208.167/gmedia/premier/Peter.Rabbit.2.The.Runaway.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Prime Time 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Prime Time 2021 lati 
 http://51.81.208.167/gmedia/premier/Prime.Time.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Raya and the Last Dragon 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Raya and the Last Dragon 2021 lati 
 http://51.81.208.167/gmedia/premier/Raya.and.the.Last.Dragon.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Redemption Day 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Redemption Day 2021 lati 
 http://51.81.208.167/gmedia/premier/Redemption.Day.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Running Against the Wind 2019 lati 
+#EXTINF:-1 group-title"PELICULA",Running Against the Wind 2019 lati 
 http://51.81.208.167/gmedia/premier/Running.Against.the.Wind.2019.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Samurai X El fin (2021) [BluRay Rip][AC3 5 1 Castellano][www maxitorrent com] avi
+#EXTINF:-1 group-title"PELICULA",Samurai X El fin (2021) [BluRay Rip][AC3 5 1 Castellano][www maxitorrent com] avi
 http://51.81.208.167/gmedia/premier/Samurai X El fin (2021) [BluRay Rip][AC3 5.1 Castellano][www.maxitorrent.com].avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Space Jam A New Legacy 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Space Jam A New Legacy 2021 lati 
 http://51.81.208.167/gmedia/premier/Space.Jam.A.New.Legacy.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spirit Untamed 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Spirit Untamed 2021 lati 
 http://51.81.208.167/gmedia/premier/Spirit.Untamed.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The 2nd 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The 2nd 2021 lati 
 http://51.81.208.167/gmedia/premier/The.2nd.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Forever Purge 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Forever Purge 2021 lati 
 http://51.81.208.167/gmedia/premier/The.Forever.Purge.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Last Mercenary 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Last Mercenary 2021 lati 
 http://51.81.208.167/gmedia/premier/The.Last.Mercenary.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Marksman 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Marksman 2021 lati 
 http://51.81.208.167/gmedia/premier/The.Marksman.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Seventh Day 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Seventh Day 2021 lati 
 http://51.81.208.167/gmedia/premier/The.Seventh.Day.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Tomorrow War 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Tomorrow War 2021 lati 
 http://51.81.208.167/gmedia/premier/The.Tomorrow.War.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The suicide squad 2021 1080p-dual-lat-cine-calidad com 
+#EXTINF:-1 group-title"PELICULA",The suicide squad 2021 1080p-dual-lat-cine-calidad com 
 http://51.81.208.167/gmedia/premier/The.suicide.squad.2021.1080p-dual-lat-cine-calidad.com.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Boss Baby- Family Business (2021) - by CharlX [paypal me-charlx0205] 
+#EXTINF:-1 group-title"PELICULA",The Boss Baby- Family Business (2021) - by CharlX [paypal me-charlx0205] 
 http://51.81.208.167/gmedia/premier/The Boss Baby- Family Business (2021) - by CharlX [paypal.me-charlx0205].mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Trollhunters Rise of the Titans 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Trollhunters Rise of the Titans 2021 lati 
 http://51.81.208.167/gmedia/premier/Trollhunters.Rise.of.the.Titans.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wish Dragon 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Wish Dragon 2021 lati 
 http://51.81.208.167/gmedia/premier/Wish.Dragon.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wrath of Man 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Wrath of Man 2021 lati 
 http://51.81.208.167/gmedia/premier/Wrath.of.Man.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", agente cobra 
+#EXTINF:-1 group-title"PELICULA",agente cobra 
 http://51.81.208.167/gmedia/24.7/agente.cobra.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", candy candy 
+#EXTINF:-1 group-title"PELICULA",candy candy 
 http://51.81.208.167/gmedia/24.7/candy.candy.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", cantinflas 
+#EXTINF:-1 group-title"PELICULA",cantinflas 
 http://51.81.208.167/gmedia/24.7/cantinflas.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", la india,maria 
+#EXTINF:-1 group-title"PELICULA",la india,maria 
 http://51.81.208.167/gmedia/24.7/la.india,maria.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", los pica piedras 1 
+#EXTINF:-1 group-title"PELICULA",los pica piedras 1 
 http://51.81.208.167/gmedia/24.7/los.pica.piedras.1.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", pedro infante 
+#EXTINF:-1 group-title"PELICULA",pedro infante 
 http://51.81.208.167/gmedia/24.7/pedro.infante.mp4
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ahi te encargo 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Ahi te encargo 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine2/Ahi.te.encargo.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Alive 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Alive 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Alive.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", All together now 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",All together now 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/All.together.now.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Amulet 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Amulet 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Amulet.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Artemis fowl 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Artemis fowl 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Artemis.fowl.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Belleza Negra (2020) 1080p Trial Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Belleza Negra (2020) 1080p Trial Www SeiresHD Com 
 http://51.81.208.167/cine2/Belleza Negra (2020) 1080p Trial.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Berlin berlin 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Berlin berlin 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Berlin.berlin.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Black box 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Black box 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Black.box.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Body cam 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Body cam 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Body.cam.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", C0NTR0LT0T4L2008[www mundopelishd com] 
+#EXTINF:-1 group-title"PELICULA",C0NTR0LT0T4L2008[www mundopelishd com] 
 http://51.81.208.167/cine2/C0NTR0LT0T4L2008[www.mundopelishd.com].mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chemical hearts 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Chemical hearts 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Chemical.hearts.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cinco de Mayo La batalla (2013) Latino 1080p 
+#EXTINF:-1 group-title"PELICULA",Cinco de Mayo La batalla (2013) Latino 1080p 
 http://51.81.208.167/cine2/Cinco de Mayo La batalla (2013) Latino 1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Come to daddy 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Come to daddy 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Come.to.daddy.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Como perros y gatos 3 ¡Todos a una! (2020) Brrip 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Como perros y gatos 3 ¡Todos a una! (2020) Brrip 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Como perros y gatos 3 ¡Todos a una! (2020) Brrip 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Corazon loco 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Corazon loco 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine2/Corazon.loco.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Crimenes de familia 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Crimenes de familia 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine2/Crimenes.de.familia.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cuties 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Cuties 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Cuties.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dick johnson is dead 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Dick johnson is dead 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Dick.johnson.is.dead.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ejecutivos agresivos (2019) 720p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Ejecutivos agresivos (2019) 720p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Ejecutivos agresivos (2019) 720p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El cuaderno de Tomy (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",El cuaderno de Tomy (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/El cuaderno de Tomy (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El testamento de la abuela (2020) 1080p Lat Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",El testamento de la abuela (2020) 1080p Lat Www SeiresHD Com 
 http://51.81.208.167/cine2/El testamento de la abuela (2020) 1080p Lat.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", En las Rocas (2020) 
+#EXTINF:-1 group-title"PELICULA",En las Rocas (2020) 
 http://51.81.208.167/cine2/En las Rocas (2020).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Enola Holmes 2020 1080p 
+#EXTINF:-1 group-title"PELICULA",Enola Holmes 2020 1080p 
 http://51.81.208.167/cine2/Enola.Holmes.2020.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Escuela de miedo (2020) Br 1080p Lat Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Escuela de miedo (2020) Br 1080p Lat Www SeiresHD Com 
 http://51.81.208.167/cine2/Escuela de miedo (2020) Br 1080p Lat.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Esto no es berlin 2019 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Esto no es berlin 2019 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine2/Esto.no.es.berlin.2019.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Evil eye 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Evil eye 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Evil.eye.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fearless 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Fearless 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Fearless.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Freaks youre one of us 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Freaks youre one of us 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Freaks.youre.one.of.us.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Grand isle 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Grand isle 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Grand.isle.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Greyhound 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Greyhound 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Greyhound.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Happy halloween scooby doo 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Happy halloween scooby doo 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Happy.halloween.scooby.doo.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Huttsgalor (2020) 1080p Trial Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Huttsgalor (2020) 1080p Trial Www SeiresHD Com 
 http://51.81.208.167/cine2/Huttsgalor (2020) 1080p Trial.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Inheritance 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Inheritance 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Inheritance.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Irresistible 2020 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",Irresistible 2020 HD 720p Latino 
 http://51.81.208.167/cine2/Irresistible.2020.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jungle beat the movie 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Jungle beat the movie 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Jungle.beat.the.movie.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Llorona 2019 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",La Llorona 2019 HD 720p Latino 
 http://51.81.208.167/cine2/La.Llorona.2019.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La partita 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",La partita 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/La.partita.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Propuesta (2009) 
+#EXTINF:-1 group-title"PELICULA",La Propuesta (2009) 
 http://51.81.208.167/cine2/La Propuesta (2009).mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La bestia (2020) 1080p Lat-Cast-Ita Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",La bestia (2020) 1080p Lat-Cast-Ita Www SeiresHD Com 
 http://51.81.208.167/cine2/La bestia (2020) 1080p Lat-Cast-Ita.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La galería de los corazones rotos (2020) Br 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",La galería de los corazones rotos (2020) Br 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/La galería de los corazones rotos (2020) Br 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Las crónicas de Navidad 2 (2020) 1080p Trial Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Las crónicas de Navidad 2 (2020) 1080p Trial Www SeiresHD Com 
 http://51.81.208.167/cine2/Las crónicas de Navidad 2 (2020) 1080p Trial.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Legacy of Lies 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Legacy of Lies 2020 lati 
 http://51.81.208.167/cine2/Legacy.of.Lies.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Love guaranteed 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Love guaranteed 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Love.guaranteed.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Magia del revés (2020) Web-DL 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Magia del revés (2020) Web-DL 1080p Latino 
 http://51.81.208.167/cine2/Magia del revés (2020) Web-DL 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Malibu Rescue The Next Wave (2020) HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",Malibu Rescue The Next Wave (2020) HD 720p Latino 
 http://51.81.208.167/cine2/Malibu Rescue The Next Wave (2020).HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Me Gusta la Tuya (2020) Lat 1080p Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Me Gusta la Tuya (2020) Lat 1080p Www SeiresHD Com 
 http://51.81.208.167/cine2/Me Gusta la Tuya (2020) Lat 1080p.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mulan 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Mulan 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Mulan.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Nocturne 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Nocturne 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Nocturne.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pacto de fuga 2020 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Pacto de fuga 2020 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine2/Pacto.de.fuga.2020.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pets united 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Pets united 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Pets.united.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Project Power 2020 HD 720p 
+#EXTINF:-1 group-title"PELICULA",Project Power 2020 HD 720p 
 http://51.81.208.167/cine2/Project.Power.2020.HD.720p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rogue 2020 1080 
+#EXTINF:-1 group-title"PELICULA",Rogue 2020 1080 
 http://51.81.208.167/cine2/Rogue.2020 1080.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sweet Home Alabama 
+#EXTINF:-1 group-title"PELICULA",Sweet Home Alabama 
 http://51.81.208.167/cine2/Sweet.Home.Alabama.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tenet 2020 IMAX 1080p 
+#EXTINF:-1 group-title"PELICULA",Tenet 2020 IMAX 1080p 
 http://51.81.208.167/cine2/Tenet.2020.IMAX.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Fanatic 2019 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Fanatic 2019 HD 720p Latino 
 http://51.81.208.167/cine2/The.Fanatic.2019.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Hating Game 
+#EXTINF:-1 group-title"PELICULA",The Hating Game 
 http://51.81.208.167/cine2/The.Hating.Game.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Immortal Wars Resurgence 2019 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Immortal Wars Resurgence 2019 HD 720p Latino 
 http://51.81.208.167/cine2/The.Immortal.Wars.Resurgence.2019.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Space Between 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Space Between 2021 lati 
 http://51.81.208.167/cine2/The.Space.Between.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Wrong Mommy 2019 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Wrong Mommy 2019 HD 720p Latino 
 http://51.81.208.167/cine2/The.Wrong.Mommy.2019.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The secret garden 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The secret garden 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/The.secret.garden.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The sleepover 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The sleepover 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/The.sleepover.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Scientist (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",The Scientist (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/The Scientist (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tom and Jerry 2021 1080p Eng Lat 
+#EXTINF:-1 group-title"PELICULA",Tom and Jerry 2021 1080p Eng Lat 
 http://51.81.208.167/cine2/Tom.and.Jerry.2021.1080p.Eng.Lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Uncle Frank (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Uncle Frank (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Uncle Frank (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Uno de nosotros (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Uno de nosotros (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Uno de nosotros (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Vampires vs The Bronx 2020 
+#EXTINF:-1 group-title"PELICULA",Vampires vs The Bronx 2020 
 http://51.81.208.167/cine2/Vampires.vs.The.Bronx.2020.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Vigilados (2020) 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Vigilados (2020) 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Vigilados (2020) 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Work it 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Work it 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine2/Work.it.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Zapatos Rojos y los siete enanos (2019) BRRip 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",Zapatos Rojos y los siete enanos (2019) BRRip 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine2/Zapatos Rojos y los siete enanos (2019) BRRip 1080p Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", proxima 2020 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",proxima 2020 HD 720p Latino 
 http://51.81.208.167/cine2/proxima.2020.HD.720p.Latino.mkv
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A fall from grace 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",A fall from grace 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/A.fall.from.grace.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", AGUAS 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",AGUAS 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/AGUAS.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", ASSENT 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",ASSENT 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/ASSENT.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", All the bright places 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",All the bright places 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/All.the.bright.places.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Angel has fallen 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Angel has fallen 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Angel.has.fallen.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", BLOODSH 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",BLOODSH 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/BLOODSH.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bad Boys for Life 2020 HD 1080p Sub 
+#EXTINF:-1 group-title"PELICULA",Bad Boys for Life 2020 HD 1080p Sub 
 http://51.81.208.167/cine/Bad.Boys.for.Life.2020.HD.1080p.Sub.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Beetlejuice Latino Ingles 
+#EXTINF:-1 group-title"PELICULA",Beetlejuice Latino Ingles 
 http://51.81.208.167/cine/Beetlejuice.Latino.Ingles.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Birds of Prey (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Birds of Prey (2020) HD 1080p Latino 
 http://51.81.208.167/cine/Birds of Prey (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", CABALLE 1080p LAT Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",CABALLE 1080p LAT Www Hackstore Net 
 http://51.81.208.167/cine/CABALLE.1080p.LAT.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Charlies angels 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Charlies angels 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Charlies.angels.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chicas perdidas (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Chicas perdidas (2020) HD 1080p Latino 
 http://51.81.208.167/cine/Chicas perdidas (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chicuarotes 2019 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Chicuarotes 2019 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine/Chicuarotes.2019.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Contagio 2011 HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Contagio 2011 HD 1080p Latino 
 http://51.81.208.167/cine/Contagio.2011.HD.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Crawlers (2020) WEB-DL 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Crawlers (2020) WEB-DL 1080p Latino 
 http://51.81.208.167/cine/Crawlers (2020) WEB-DL 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Crypto 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Crypto 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Crypto.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", DOLITTLE 1080 LAT Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",DOLITTLE 1080 LAT Www Hackstore Net 
 http://51.81.208.167/cine/DOLITTLE.1080.LAT.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Deadwood the movie 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Deadwood the movie 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Deadwood.the.movie.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Doctor sleep 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Doctor sleep 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Doctor.sleep.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Doom annihilation 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Doom annihilation 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Doom.annihilation.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Banquero 2020 HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",El Banquero 2020 HD 1080p Latino 
 http://51.81.208.167/cine/El.Banquero.2020.HD.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El hoyo 2019 HD 1080p Castellano 
+#EXTINF:-1 group-title"PELICULA",El hoyo 2019 HD 1080p Castellano 
 http://51.81.208.167/cine/El.hoyo.2019.HD.1080p.Castellano.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Espías a Escondidas (2019) BRRip 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Espías a Escondidas (2019) BRRip 1080p Latino 
 http://51.81.208.167/cine/Espías a Escondidas (2019) BRRip 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Extremely wicked shockingly evil and vile 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Extremely wicked shockingly evil and vile 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Extremely.wicked.shockingly.evil.and.vile.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fast and furious presents hobbs and shaw 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Fast and furious presents hobbs and shaw 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Fast.and.furious.presents.hobbs.and.shaw.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ford v ferrari 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Ford v ferrari 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Ford.v.ferrari.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ghost la sombra del amor avi
+#EXTINF:-1 group-title"PELICULA",Ghost la sombra del amor avi
 http://51.81.208.167/cine/Ghost.la.sombra.del.amor.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ghosts Of Girlfriends Past 2009 720p Dual-S 
+#EXTINF:-1 group-title"PELICULA",Ghosts Of Girlfriends Past 2009 720p Dual-S 
 http://51.81.208.167/cine/Ghosts.Of.Girlfriends.Past.2009.720p.Dual-S.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Horse girl 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Horse girl 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Horse.girl.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hotel transylvania 3 summer vacation 2018 1080p-dual-lat-cinecalidad to 
+#EXTINF:-1 group-title"PELICULA",Hotel transylvania 3 summer vacation 2018 1080p-dual-lat-cinecalidad to 
 http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Isi and Ossi (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Isi and Ossi (2020) HD 1080p Latino 
 http://51.81.208.167/cine/Isi and Ossi (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jumanji the next level 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Jumanji the next level 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Jumanji.the.next.level.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Killers anonymous 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Killers anonymous 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Killers.anonymous.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Klaus 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Klaus 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Klaus.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Knives out 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Knives out 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Knives.out.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kung fu panda 3 2016 1080p-dual-lat-r 
+#EXTINF:-1 group-title"PELICULA",Kung fu panda 3 2016 1080p-dual-lat-r 
 http://51.81.208.167/cine/Kung.fu.panda.3.2016.1080p-dual-lat-r.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La música de mi vida (2019) HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",La música de mi vida (2019) HD 720p Latino 
 http://51.81.208.167/cine/La música de mi vida (2019) HD 720p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Le chant du loup 2019 1080p-dual-lat-cinecalidad to 
+#EXTINF:-1 group-title"PELICULA",Le chant du loup 2019 1080p-dual-lat-cinecalidad to 
 http://51.81.208.167/cine/Le.chant.du.loup.2019.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Maid in Manhattan 2002 1080p BRRip H264 Dual-Lat 
+#EXTINF:-1 group-title"PELICULA",Maid in Manhattan 2002 1080p BRRip H264 Dual-Lat 
 http://51.81.208.167/cine/Maid.in.Manhattan.2002.1080p.BRRip.H264.Dual-Lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Marriage story 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Marriage story 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Marriage.story.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mercy Black (2019) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Mercy Black (2019) HD 1080p Latino 
 http://51.81.208.167/cine/Mercy Black (2019) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Milagro en la Celda 7 (2019) HD 1080p Sub 
+#EXTINF:-1 group-title"PELICULA",Milagro en la Celda 7 (2019) HD 1080p Sub 
 http://51.81.208.167/cine/Milagro.en.la.Celda.7.(2019).HD.1080p.Sub.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mrs Doubtfire 1993 lati 
+#EXTINF:-1 group-title"PELICULA",Mrs Doubtfire 1993 lati 
 http://51.81.208.167/cine/Mrs.Doubtfire.1993.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", POKEMON 2020 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",POKEMON 2020 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/POKEMON.2020.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", REGIA 1080p LAT Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",REGIA 1080p LAT Www Hackstore Net 
 http://51.81.208.167/cine/REGIA.1080p.LAT.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", RENACE 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",RENACE 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/RENACE.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Richard jewell 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Richard jewell 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Richard.jewell.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rim of the world 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Rim of the world 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Rim.of.the.world.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", SONIC 1080 SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",SONIC 1080 SUBS Www Hackstore Net 
 http://51.81.208.167/cine/SONIC.1080.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", SPENSER 1080p SUBS Www Hackstore Net 
+#EXTINF:-1 group-title"PELICULA",SPENSER 1080p SUBS Www Hackstore Net 
 http://51.81.208.167/cine/SPENSER.1080p.SUBS.Www.Hackstore.Net.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider-man far from home 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Spider-man far from home 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Spider-man.far.from.home.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tall girl 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Tall girl 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Tall.girl.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Terra willy unexplored planet 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Terra willy unexplored planet 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Terra.willy.unexplored.planet.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Flu (2013) BRRip 1080p Dual Www SeiresHD Com 
+#EXTINF:-1 group-title"PELICULA",The Flu (2013) BRRip 1080p Dual Www SeiresHD Com 
 http://51.81.208.167/cine/The.Flu.(2013).BRRip.1080p.Dual.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Grudge 2020 HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Grudge 2020 HD 720p Latino 
 http://51.81.208.167/cine/The.Grudge.2020.HD.720p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The last thing he wanted 2020 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The last thing he wanted 2020 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/The.last.thing.he.wanted.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The report 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The report 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/The.report.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The two popes 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",The two popes 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/The.two.popes.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Invisible Man (2020) HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Invisible Man (2020) HD 720p Latino 
 http://51.81.208.167/cine/The Invisible Man (2020) HD 720p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Room (2019) HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",The Room (2019) HD 720p Latino 
 http://51.81.208.167/cine/The Room (2019) HD 720p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Timmy Failure 2020 HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Timmy Failure 2020 HD 1080p Latino 
 http://51.81.208.167/cine/Timmy.Failure.2020.HD.1080p.Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", To All the Boys P S  I Still Love You (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",To All the Boys P S  I Still Love You (2020) HD 1080p Latino 
 http://51.81.208.167/cine/To All the Boys P.S. I Still Love You (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Todas caen 2019 1080p-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Todas caen 2019 1080p-lat-cinecalidad is 
 http://51.81.208.167/cine/Todas.caen.2019.1080p-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Togo 2019 720p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Togo 2019 720p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Togo.2019.720p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Toy story 4 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Toy story 4 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Toy.story.4.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Train to busan 2016 1080p-dual-cast 
+#EXTINF:-1 group-title"PELICULA",Train to busan 2016 1080p-dual-cast 
 http://51.81.208.167/cine/Train.to.busan.2016.1080p-dual-cast.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ultras (2020) HD 1080p Latino 
+#EXTINF:-1 group-title"PELICULA",Ultras (2020) HD 1080p Latino 
 http://51.81.208.167/cine/Ultras (2020) HD 1080p Latino.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Una Pelicula De Huevos 1 
+#EXTINF:-1 group-title"PELICULA",Una Pelicula De Huevos 1 
 http://51.81.208.167/cine/Una.Pelicula.De.Huevos.1.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Una Pelicula De Huevos 2 
+#EXTINF:-1 group-title"PELICULA",Una Pelicula De Huevos 2 
 http://51.81.208.167/cine/Una.Pelicula.De.Huevos.2.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Una Pelicula De Huevos 3 
+#EXTINF:-1 group-title"PELICULA",Una Pelicula De Huevos 3 
 http://51.81.208.167/cine/Una.Pelicula.De.Huevos.3.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Uncut gems 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",Uncut gems 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/Uncut.gems.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Vaselina 
+#EXTINF:-1 group-title"PELICULA",Vaselina 
 http://51.81.208.167/cine/Vaselina.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", X-men dark phoenix 2019 1080p-dual-lat-cinecalidad is 
+#EXTINF:-1 group-title"PELICULA",X-men dark phoenix 2019 1080p-dual-lat-cinecalidad is 
 http://51.81.208.167/cine/X-men.dark.phoenix.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", ZOMBIES 2 (2020) HD 720p Latino 
+#EXTINF:-1 group-title"PELICULA",ZOMBIES 2 (2020) HD 720p Latino 
 http://51.81.208.167/cine/ZOMBIES 2 (2020) HD 720p Latino.mkv
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 8 Bit Christmas 2021 lati 
+#EXTINF:-1 group-title"PELICULA",8 Bit Christmas 2021 lati 
 http://51.81.208.167/peli2021/8.Bit.Christmas.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Boy Called Christmas 2021 lati 
+#EXTINF:-1 group-title"PELICULA",A Boy Called Christmas 2021 lati 
 http://51.81.208.167/peli2021/A.Boy.Called.Christmas.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Writers Odyssey 2021 lati 
+#EXTINF:-1 group-title"PELICULA",A Writers Odyssey 2021 lati 
 http://51.81.208.167/peli2021/A.Writers.Odyssey.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A un paso de mí 2021 lati 
+#EXTINF:-1 group-title"PELICULA",A un paso de mí 2021 lati 
 http://51.81.208.167/peli2021/A.un.paso.de.mí.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ankahi Kahaniya 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Ankahi Kahaniya 2021 lati 
 http://51.81.208.167/peli2021/Ankahi.Kahaniya.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Apex 2021 dual lati 
+#EXTINF:-1 group-title"PELICULA",Apex 2021 dual lati 
 http://51.81.208.167/peli2021/Apex.2021.dual.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", BAC Nord 2021 lati 
+#EXTINF:-1 group-title"PELICULA",BAC Nord 2021 lati 
 http://51.81.208.167/peli2021/BAC.Nord.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bingo Hell 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Bingo Hell 2021 lati 
 http://51.81.208.167/peli2021/Bingo.Hell.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Blood Brothers Malcolm X & Muhammad Ali 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Blood Brothers Malcolm X & Muhammad Ali 2021 lati 
 http://51.81.208.167/peli2021/Blood.Brothers.Malcolm.X.&.Muhammad.Ali.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Candyman 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Candyman 2021 lati 
 http://51.81.208.167/peli2021/Candyman.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Catch the Bullet 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Catch the Bullet 2021 lati 
 http://51.81.208.167/peli2021/Catch.the.Bullet.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chilangolandia 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Chilangolandia 2021 lati 
 http://51.81.208.167/peli2021/Chilangolandia.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cosmic Sin 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Cosmic Sin 2021 lati 
 http://51.81.208.167/peli2021/Cosmic.Sin.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Crisis  2021 lati 
+#EXTINF:-1 group-title"PELICULA",Crisis  2021 lati 
 http://51.81.208.167/peli2021/Crisis .2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cry Macho 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Cry Macho 2021 lati 
 http://51.81.208.167/peli2021/Cry.Macho.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dragon Fury Road 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Dragon Fury Road 2020 lati 
 http://51.81.208.167/peli2021/Dragon.Fury.Road.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Encanto 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Encanto 2021 lati 
 http://51.81.208.167/peli2021/Encanto.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Escape Room 2 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Escape Room 2 2021 lati 
 http://51.81.208.167/peli2021/Escape.Room.2.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Eternals 2021 
+#EXTINF:-1 group-title"PELICULA",Eternals 2021 
 http://51.81.208.167/peli2021/Eternals.2021.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Everybodys Talking About Jamie 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Everybodys Talking About Jamie 2021 lati 
 http://51.81.208.167/peli2021/Everybodys.Talking.About.Jamie.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Finde 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Finde 2021 lati 
 http://51.81.208.167/peli2021/Finde.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Friendzone 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Friendzone 2021 lati 
 http://51.81.208.167/peli2021/Friendzone.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ghostbusters Afterlife 2021 1080p dual-lat mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Ghostbusters Afterlife 2021 1080p dual-lat mitorrent org 
 http://51.81.208.167/peli2021/Ghostbusters.Afterlife.2021.1080p.dual-lat.mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Harry Potter20 Aniversario 
+#EXTINF:-1 group-title"PELICULA",Harry Potter20 Aniversario 
 http://51.81.208.167/peli2021/Harry.Potter20.Aniversario.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", I Carry You with Me 2020 lati 
+#EXTINF:-1 group-title"PELICULA",I Carry You with Me 2020 lati 
 http://51.81.208.167/peli2021/I.Carry.You.with.Me.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ilhados 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Ilhados 2021 lati 
 http://51.81.208.167/peli2021/Ilhados.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Injustice 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Injustice 2021 lati 
 http://51.81.208.167/peli2021/Injustice.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kate 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Kate 2021 lati 
 http://51.81.208.167/peli2021/Kate.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kill Mode 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Kill Mode 2021 lati 
 http://51.81.208.167/peli2021/Kill.Mode.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", LEGO Star Wars Terrifying Tales 2021 lati 
+#EXTINF:-1 group-title"PELICULA",LEGO Star Wars Terrifying Tales 2021 lati 
 http://51.81.208.167/peli2021/LEGO.Star.Wars.Terrifying.Tales.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La venganza de Mascarita 2021 lati 
+#EXTINF:-1 group-title"PELICULA",La venganza de Mascarita 2021 lati 
 http://51.81.208.167/peli2021/La.venganza.de.Mascarita.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Los Santos Del La Mafia 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Los Santos Del La Mafia 2021 lati 
 http://51.81.208.167/peli2021/Los.Santos.Del.La.Mafia.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Lulli 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Lulli 2021 lati 
 http://51.81.208.167/peli2021/Lulli.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Matando Cabos 2 
+#EXTINF:-1 group-title"PELICULA",Matando Cabos 2 
 http://51.81.208.167/peli2021/Matando.Cabos.2.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Matrix Resurrecciones dual 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Matrix Resurrecciones dual 2021 lati 
 http://51.81.208.167/peli2021/Matrix.Resurrecciones.dual.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Minnal Murali 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Minnal Murali 2021 lati 
 http://51.81.208.167/peli2021/Minnal.Murali.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Misbehaviour 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Misbehaviour 2020 lati 
 http://51.81.208.167/peli2021/Misbehaviour.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Night of the Animated Dead 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Night of the Animated Dead 2021 lati 
 http://51.81.208.167/peli2021/Night.of.the.Animated.Dead.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Nightbooks 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Nightbooks 2021 lati 
 http://51.81.208.167/peli2021/Nightbooks.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No One Gets Out Alive 2021 lati 
+#EXTINF:-1 group-title"PELICULA",No One Gets Out Alive 2021 lati 
 http://51.81.208.167/peli2021/No.One.Gets.Out.Alive.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No Time To Die 2021 
+#EXTINF:-1 group-title"PELICULA",No Time To Die 2021 
 http://51.81.208.167/peli2021/No.Time.To.Die.2021.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No Time to Die 2021 lati 
+#EXTINF:-1 group-title"PELICULA",No Time to Die 2021 lati 
 http://51.81.208.167/peli2021/No.Time.to.Die.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", No mires arriba 
+#EXTINF:-1 group-title"PELICULA",No mires arriba 
 http://51.81.208.167/peli2021/No.mires.arriba.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Old 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Old 2021 lati 
 http://51.81.208.167/peli2021/Old.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Palma 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Palma 2021 lati 
 http://51.81.208.167/peli2021/Palma.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Posesión Diabólica 2020 lati 
+#EXTINF:-1 group-title"PELICULA",Posesión Diabólica 2020 lati 
 http://51.81.208.167/peli2021/Posesión.Diabólica.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Potters Ground 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Potters Ground 2021 lati 
 http://51.81.208.167/peli2021/Potters.Ground.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Prey 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Prey 2021 lati 
 http://51.81.208.167/peli2021/Prey.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Red Notice (2021)1080p dual-lat Mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Red Notice (2021)1080p dual-lat Mitorrent org 
 http://51.81.208.167/peli2021/Red.Notice.(2021)1080p.dual-lat.Mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Resident Evil Bienvenidos Raccoon City 
+#EXTINF:-1 group-title"PELICULA",Resident Evil Bienvenidos Raccoon City 
 http://51.81.208.167/peli2021/Resident.Evil.Bienvenidos.Raccoon.City.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Schumacher 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Schumacher 2021 lati 
 http://51.81.208.167/peli2021/Schumacher.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Seal Team 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Seal Team 2021 lati 
 http://51.81.208.167/peli2021/Seal.Team.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Shang-Chi and the Legend of the Ten Rings 2021 Mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Shang-Chi and the Legend of the Ten Rings 2021 Mitorrent org 
 http://51.81.208.167/peli2021/Shang-Chi.and.the.Legend.of.the.Ten.Rings.2021.Mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Snake Eyes G I Joe Origins 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Snake Eyes G I Joe Origins 2021 lati 
 http://51.81.208.167/peli2021/Snake.Eyes.G.I.Joe.Origins.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Solitary 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Solitary 2021 lati 
 http://51.81.208.167/peli2021/Solitary.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spider Man No Way Home 
+#EXTINF:-1 group-title"PELICULA",Spider Man No Way Home 
 http://51.81.208.167/peli2021/Spider.Man.No.Way.Home.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Straight outta nowhere scooby doo meets courage the cowardly dog 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Straight outta nowhere scooby doo meets courage the cowardly dog 2021 lati 
 http://51.81.208.167/peli2021/Straight.outta.nowhere.scooby.doo.meets.courage.the.cowardly.dog.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Swallow 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Swallow 2021 lati 
 http://51.81.208.167/peli2021/Swallow.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tata muta muntii 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Tata muta muntii 2021 lati 
 http://51.81.208.167/peli2021/Tata.muta.muntii.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Addams Family 2 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Addams Family 2 2021 lati 
 http://51.81.208.167/peli2021/The.Addams.Family.2.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The House Next Door Meet the Blacks 2 2020 lati 
+#EXTINF:-1 group-title"PELICULA",The House Next Door Meet the Blacks 2 2020 lati 
 http://51.81.208.167/peli2021/The.House.Next.Door.Meet.the.Blacks.2.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Match 2020 lati 
+#EXTINF:-1 group-title"PELICULA",The Match 2020 lati 
 http://51.81.208.167/peli2021/The.Match.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Night House 2020 lati 
+#EXTINF:-1 group-title"PELICULA",The Night House 2020 lati 
 http://51.81.208.167/peli2021/The.Night.House.2020.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Toll 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Toll 2021 lati 
 http://51.81.208.167/peli2021/The.Toll.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Voyeurs 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Voyeurs 2021 lati 
 http://51.81.208.167/peli2021/The.Voyeurs.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tu eres mi problema 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Tu eres mi problema 2021 lati 
 http://51.81.208.167/peli2021/Tu.eres.mi.problema.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Venom 2 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Venom 2 2021 lati 
 http://51.81.208.167/peli2021/Venom.2.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Venom2021 
+#EXTINF:-1 group-title"PELICULA",Venom2021 
 http://51.81.208.167/peli2021/Venom2021.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Vinterviken 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Vinterviken 2021 lati 
 http://51.81.208.167/peli2021/Vinterviken.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Werewolves Within 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Werewolves Within 2021 lati 
 http://51.81.208.167/peli2021/Werewolves.Within.2021.lati.mp4
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 365 Days 2020 
+#EXTINF:-1 group-title"PELICULA",365 Days 2020 
 http://51.81.208.167/2020/365.Days.2020.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", HACKER 
+#EXTINF:-1 group-title"PELICULA",HACKER 
 http://51.81.208.167/2020/HACKER.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hala_(2019) 
+#EXTINF:-1 group-title"PELICULA",Hala_(2019) 
 http://51.81.208.167/2020/Hala_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Halloween_(2018) 
+#EXTINF:-1 group-title"PELICULA",Halloween_(2018) 
 http://51.81.208.167/2020/Halloween_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Happy_Death_Day_2U_(2019) 
+#EXTINF:-1 group-title"PELICULA",Happy_Death_Day_2U_(2019) 
 http://51.81.208.167/2020/Happy_Death_Day_2U_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Harriet_(2019) 
+#EXTINF:-1 group-title"PELICULA",Harriet_(2019) 
 http://51.81.208.167/2020/Harriet_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hell_Fest_(2018) 
+#EXTINF:-1 group-title"PELICULA",Hell_Fest_(2018) 
 http://51.81.208.167/2020/Hell_Fest_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", High_Flying_Bird_(2019) 
+#EXTINF:-1 group-title"PELICULA",High_Flying_Bird_(2019) 
 http://51.81.208.167/2020/High_Flying_Bird_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", High_Note_40_2019 
+#EXTINF:-1 group-title"PELICULA",High_Note_40_2019 
 http://51.81.208.167/2020/High_Note_40_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hotel Transylvania 2 
+#EXTINF:-1 group-title"PELICULA",Hotel Transylvania 2 
 http://51.81.208.167/2020/Hotel.Transylvania.2.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hotel Transylvania 
+#EXTINF:-1 group-title"PELICULA",Hotel Transylvania 
 http://51.81.208.167/2020/Hotel.Transylvania.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hotel mumbai 2018 
+#EXTINF:-1 group-title"PELICULA",Hotel mumbai 2018 
 http://51.81.208.167/2020/Hotel.mumbai.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", How_To_Train_Your_Dragon_The_Hidden_World_(2019) 
+#EXTINF:-1 group-title"PELICULA",How_To_Train_Your_Dragon_The_Hidden_World_(2019) 
 http://51.81.208.167/2020/How_To_Train_Your_Dragon_The_Hidden_World_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hunter_Killer_(2018) 
+#EXTINF:-1 group-title"PELICULA",Hunter_Killer_(2018) 
 http://51.81.208.167/2020/Hunter_Killer_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", I am mother 2019 
+#EXTINF:-1 group-title"PELICULA",I am mother 2019 
 http://51.81.208.167/2020/I.am.mother.2019.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ice_Age_The_Great_Egg-Scapade__(2016) 
+#EXTINF:-1 group-title"PELICULA",Ice_Age_The_Great_Egg-Scapade__(2016) 
 http://51.81.208.167/2020/Ice_Age_The_Great_Egg-Scapade__(2016).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Illang the wolf brigade 2018 
+#EXTINF:-1 group-title"PELICULA",Illang the wolf brigade 2018 
 http://51.81.208.167/2020/Illang.the.wolf.brigade.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Inception 2010 
+#EXTINF:-1 group-title"PELICULA",Inception 2010 
 http://51.81.208.167/2020/Inception.2010.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Indiana_Jones_3_(1989) 
+#EXTINF:-1 group-title"PELICULA",Indiana_Jones_3_(1989) 
 http://51.81.208.167/2020/Indiana_Jones_3_(1989).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Indiana_Jones_4_(2008) 
+#EXTINF:-1 group-title"PELICULA",Indiana_Jones_4_(2008) 
 http://51.81.208.167/2020/Indiana_Jones_4_(2008).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Inherit_the_Viper_2019 
+#EXTINF:-1 group-title"PELICULA",Inherit_the_Viper_2019 
 http://51.81.208.167/2020/Inherit_the_Viper_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Instant_Family_(2018) 
+#EXTINF:-1 group-title"PELICULA",Instant_Family_(2018) 
 http://51.81.208.167/2020/Instant_Family_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Intercambiadas_2019 
+#EXTINF:-1 group-title"PELICULA",Intercambiadas_2019 
 http://51.81.208.167/2020/Intercambiadas_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Johnny_English_Strikes_Again_(2018) 
+#EXTINF:-1 group-title"PELICULA",Johnny_English_Strikes_Again_(2018) 
 http://51.81.208.167/2020/Johnny_English_Strikes_Again_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jojo_Rabbit_(2019) 
+#EXTINF:-1 group-title"PELICULA",Jojo_Rabbit_(2019) 
 http://51.81.208.167/2020/Jojo_Rabbit_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Justice_League_(2017) 
+#EXTINF:-1 group-title"PELICULA",Justice_League_(2017) 
 http://51.81.208.167/2020/Justice_League_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kicking_&_Screaming_(2005) 
+#EXTINF:-1 group-title"PELICULA",Kicking_&_Screaming_(2005) 
 http://51.81.208.167/2020/Kicking_&_Screaming_(2005).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kin 2018 
+#EXTINF:-1 group-title"PELICULA",Kin 2018 
 http://51.81.208.167/2020/Kin.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Knight_of_Cups_(2015) 
+#EXTINF:-1 group-title"PELICULA",Knight_of_Cups_(2015) 
 http://51.81.208.167/2020/Knight_of_Cups_(2015).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kung_Fu_Yoga_(2017) 
+#EXTINF:-1 group-title"PELICULA",Kung_Fu_Yoga_(2017) 
 http://51.81.208.167/2020/Kung_Fu_Yoga_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", LFDA11(2019) 
+#EXTINF:-1 group-title"PELICULA",LFDA11(2019) 
 http://51.81.208.167/2020/LFDA11(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Era_de_Hielo_1__2002 
+#EXTINF:-1 group-title"PELICULA",La_Era_de_Hielo_1__2002 
 http://51.81.208.167/2020/La_Era_de_Hielo_1__2002.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Era_de_Hielo_2_El_Deshielo__2006 
+#EXTINF:-1 group-title"PELICULA",La_Era_de_Hielo_2_El_Deshielo__2006 
 http://51.81.208.167/2020/La_Era_de_Hielo_2_El_Deshielo__2006.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009 
+#EXTINF:-1 group-title"PELICULA",La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009 
 http://51.81.208.167/2020/La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012 
+#EXTINF:-1 group-title"PELICULA",La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012 
 http://51.81.208.167/2020/La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Era_de_Hielo_5_Choque_de_Mundos__2016 
+#EXTINF:-1 group-title"PELICULA",La_Era_de_Hielo_5_Choque_de_Mundos__2016 
 http://51.81.208.167/2020/La_Era_de_Hielo_5_Choque_de_Mundos__2016.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Guía_de_Historia_Negra_de_Kevin_Hart_(2019) 
+#EXTINF:-1 group-title"PELICULA",La_Guía_de_Historia_Negra_de_Kevin_Hart_(2019) 
 http://51.81.208.167/2020/La_Guía_de_Historia_Negra_de_Kevin_Hart_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_Ultima_carcajada_2019 
+#EXTINF:-1 group-title"PELICULA",La_Ultima_carcajada_2019 
 http://51.81.208.167/2020/La_Ultima_carcajada_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La_leyenda_del_pasaje_secreto_2019 
+#EXTINF:-1 group-title"PELICULA",La_leyenda_del_pasaje_secreto_2019 
 http://51.81.208.167/2020/La_leyenda_del_pasaje_secreto_2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Leave no trace 2018 
+#EXTINF:-1 group-title"PELICULA",Leave no trace 2018 
 http://51.81.208.167/2020/Leave.no.trace.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Like_Father_(2018) 
+#EXTINF:-1 group-title"PELICULA",Like_Father_(2018) 
 http://51.81.208.167/2020/Like_Father_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Look_Away_(2018) 
+#EXTINF:-1 group-title"PELICULA",Look_Away_(2018) 
 http://51.81.208.167/2020/Look_Away_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Luchando_con_mi_Familia_ 
+#EXTINF:-1 group-title"PELICULA",Luchando_con_mi_Familia_ 
 http://51.81.208.167/2020/Luchando_con_mi_Familia_.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Lukas_2018 
+#EXTINF:-1 group-title"PELICULA",Lukas_2018 
 http://51.81.208.167/2020/Lukas_2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Maleficent mistress of evil 2019 
+#EXTINF:-1 group-title"PELICULA",Maleficent mistress of evil 2019 
 http://51.81.208.167/2020/Maleficent.mistress.of.evil.2019.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mamma_Mia!_Here_We_Go_Again_(2018) 
+#EXTINF:-1 group-title"PELICULA",Mamma_Mia!_Here_We_Go_Again_(2018) 
 http://51.81.208.167/2020/Mamma_Mia!_Here_We_Go_Again_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mary_and_the_Witch's_Flower_(2017) 
+#EXTINF:-1 group-title"PELICULA",Mary_and_the_Witch's_Flower_(2017) 
 http://51.81.208.167/2020/Mary_and_the_Witch's_Flower_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mi_pequeño_Gran_Hombre_(2018) 
+#EXTINF:-1 group-title"PELICULA",Mi_pequeño_Gran_Hombre_(2018) 
 http://51.81.208.167/2020/Mi_pequeño_Gran_Hombre_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mia_y_el_Leon_Blanco_(2018) 
+#EXTINF:-1 group-title"PELICULA",Mia_y_el_Leon_Blanco_(2018) 
 http://51.81.208.167/2020/Mia_y_el_Leon_Blanco_(2018).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Midsommar,_El_terror_no_espera_la_noche_(2019) 
+#EXTINF:-1 group-title"PELICULA",Midsommar,_El_terror_no_espera_la_noche_(2019) 
 http://51.81.208.167/2020/Midsommar,_El_terror_no_espera_la_noche_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Midway 2019 
+#EXTINF:-1 group-title"PELICULA",Midway 2019 
 http://51.81.208.167/2020/Midway.2019.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mile 22 2018 
+#EXTINF:-1 group-title"PELICULA",Mile 22 2018 
 http://51.81.208.167/2020/Mile.22.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Miss_Bala_(2019) 
+#EXTINF:-1 group-title"PELICULA",Miss_Bala_(2019) 
 http://51.81.208.167/2020/Miss_Bala_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Monos_(2019) 
+#EXTINF:-1 group-title"PELICULA",Monos_(2019) 
 http://51.81.208.167/2020/Monos_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mujer_Maravilla_Linaje_(2019) 
+#EXTINF:-1 group-title"PELICULA",Mujer_Maravilla_Linaje_(2019) 
 http://51.81.208.167/2020/Mujer_Maravilla_Linaje_(2019).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mute 2018 
+#EXTINF:-1 group-title"PELICULA",Mute 2018 
 http://51.81.208.167/2020/Mute.2018.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", My_Friend_Dahmer_(2017) 
+#EXTINF:-1 group-title"PELICULA",My_Friend_Dahmer_(2017) 
 http://51.81.208.167/2020/My_Friend_Dahmer_(2017).mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Man Called Otto 2022 1080p 	
+#EXTINF:-1 group-title"PELICULA",A Man Called Otto 2022 1080p 	
 http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Detective Knight Independence 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Detective Knight Independence 2023 lati 
 http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Die Hart the Movie 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Die Hart the Movie 2023 lati 
 http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", House Party 2023 lati 
+#EXTINF:-1 group-title"PELICULA",House Party 2023 lati 
 http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", John Wick 4 
+#EXTINF:-1 group-title"PELICULA",John Wick 4 
 http://51.81.208.167/pelis2023/John.Wick.4.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jung E 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Jung E 2023 lati 
 http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Knock at the Cabin 2023 
+#EXTINF:-1 group-title"PELICULA",Knock at the Cabin 2023 
 http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Legion of Super Heroes 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Legion of Super Heroes 2023 lati 
 http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Magic Mikes Last Dance 2023 
+#EXTINF:-1 group-title"PELICULA",Magic Mikes Last Dance 2023 
 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Paradise City 2022 
+#EXTINF:-1 group-title"PELICULA",Paradise City 2022 
 http://51.81.208.167/pelis2023/Paradise.City.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Plane 2023 
+#EXTINF:-1 group-title"PELICULA",Plane 2023 
 http://51.81.208.167/pelis2023/Plane.2023.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Teen Wolf The Movie 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Teen Wolf The Movie 2023 lati 
 http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The System 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The System 2022 lati 
 http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Transfusion 2023 lati 
+#EXTINF:-1 group-title"PELICULA",Transfusion 2023 lati 
 http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", You People 2023 lati 
+#EXTINF:-1 group-title"PELICULA",You People 2023 lati 
 http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 13 lives 2022 lati 
+#EXTINF:-1 group-title"PELICULA",13 lives 2022 lati 
 http://51.81.208.167/pelis2022/13.lives.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 365 Days Part III 2022 lati 
+#EXTINF:-1 group-title"PELICULA",365 Days Part III 2022 lati 
 http://51.81.208.167/pelis2022/365.Days.Part.III.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", 365 dias Aquel dia 2022 lati 
+#EXTINF:-1 group-title"PELICULA",365 dias Aquel dia 2022 lati 
 http://51.81.208.167/pelis2022/365.dias.Aquel.dia.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Fairy Tale After All 2022 lati 
+#EXTINF:-1 group-title"PELICULA",A Fairy Tale After All 2022 lati 
 http://51.81.208.167/pelis2022/A.Fairy.Tale.After.All.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", A Madea Homecoming 2022 lati 
+#EXTINF:-1 group-title"PELICULA",A Madea Homecoming 2022 lati 
 http://51.81.208.167/pelis2022/A.Madea.Homecoming.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Against the Ice 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Against the Ice 2022 lati 
 http://51.81.208.167/pelis2022/Against.the.Ice.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Alcarras 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Alcarras 2022 lati 
 http://51.81.208.167/pelis2022/Alcarras.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", All the Old Knives 2022 lati 
+#EXTINF:-1 group-title"PELICULA",All the Old Knives 2022 lati 
 http://51.81.208.167/pelis2022/All.the.Old.Knives.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ambulance 2022 1080P Dual-Latino mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Ambulance 2022 1080P Dual-Latino mitorrent org 
 http://51.81.208.167/pelis2022/Ambulance.2022.1080P.Dual-Latino.mitorrent.org.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", American Murderer 2022 lati 
+#EXTINF:-1 group-title"PELICULA",American Murderer 2022 lati 
 http://51.81.208.167/pelis2022/American.Murderer.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", American Siege 2022 
+#EXTINF:-1 group-title"PELICULA",American Siege 2022 
 http://51.81.208.167/pelis2022/American.Siege.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Aqua Teen Forever Plantasm 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Aqua Teen Forever Plantasm 2022 lati 
 http://51.81.208.167/pelis2022/Aqua.Teen.Forever.Plantasm.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Argentina 1985 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Argentina 1985 2022 lati 
 http://51.81.208.167/pelis2022/Argentina.1985.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Atrapadas en familia 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Atrapadas en familia 2022 lati 
 http://51.81.208.167/pelis2022/Atrapadas.en.familia.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Avatar El camino del agua 
+#EXTINF:-1 group-title"PELICULA",Avatar El camino del agua 
 http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Babylon 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Babylon 2022 lati 
 http://51.81.208.167/pelis2022/Babylon.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Balle perdue 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Balle perdue 2 2022 lati 
 http://51.81.208.167/pelis2022/Balle.perdue.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Barbarian 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Barbarian 2022 lati 
 http://51.81.208.167/pelis2022/Barbarian.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Batman y Superman La batalla de los Super hijos 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Batman y Superman La batalla de los Super hijos 2022 lati 
 http://51.81.208.167/pelis2022/Batman.y.Superman.La.batalla.de.los.Super.hijos.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Beast 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Beast 2022 lati 
 http://51.81.208.167/pelis2022/Beast.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Beyond the Universe 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Beyond the Universe 2022 lati 
 http://51.81.208.167/pelis2022/Beyond.the.Universe.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Big Gold Brick 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Big Gold Brick 2022 lati 
 http://51.81.208.167/pelis2022/Big.Gold.Brick.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", BigBug 2022 lati 
+#EXTINF:-1 group-title"PELICULA",BigBug 2022 lati 
 http://51.81.208.167/pelis2022/BigBug.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Black Adam 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Black Adam 2022 lati 
 http://51.81.208.167/pelis2022/Black.Adam.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Black Panther Wakanda Forever 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Black Panther Wakanda Forever 2022 lati 
 http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Black Site 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Black Site 2022 lati 
 http://51.81.208.167/pelis2022/Black.Site.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Blacklight 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Blacklight 2022 lati 
 http://51.81.208.167/pelis2022/Blacklight.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Blade of the 47 Ronin 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Blade of the 47 Ronin 2022 lati 
 http://51.81.208.167/pelis2022/Blade.of.the.47.Ronin.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bobs Burgers The Movie 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Bobs Burgers The Movie 2022 lati 
 http://51.81.208.167/pelis2022/Bobs.Burgers.The.Movie.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bros 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Bros 2022 lati 
 http://51.81.208.167/pelis2022/Bros.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bull Shark 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Bull Shark 2022 lati 
 http://51.81.208.167/pelis2022/Bull.Shark.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bulldozer 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Bulldozer 2022 lati 
 http://51.81.208.167/pelis2022/Bulldozer.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Bullet Train 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Bullet Train 2022 lati 
 http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Carter 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Carter 2022 lati 
 http://51.81.208.167/pelis2022/Carter.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Catherine Called Birdy 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Catherine Called Birdy 2022 lati 
 http://51.81.208.167/pelis2022/Catherine.Called.Birdy.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Causeway 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Causeway 2022 lati 
 http://51.81.208.167/pelis2022/Causeway.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cha Cha Real Smooth 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Cha Cha Real Smooth 2022 lati 
 http://51.81.208.167/pelis2022/Cha.Cha.Real.Smooth.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chicas Web Cam 2021 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",Chicas Web Cam 2021 1080p-dual-lat 
 http://51.81.208.167/pelis2022/Chicas.Web.Cam.2021.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Chip n Dale Rescue Rangers 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Chip n Dale Rescue Rangers 2022 lati 
 http://51.81.208.167/pelis2022/Chip.n.Dale.Rescue.Rangers.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Christmas on Mistletoe Farm 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Christmas on Mistletoe Farm 2022 lati 
 http://51.81.208.167/pelis2022/Christmas.on.Mistletoe.Farm.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Clerks III 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Clerks III 2022 lati 
 http://51.81.208.167/pelis2022/Clerks.III.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Collision 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Collision 2022 lati 
 http://51.81.208.167/pelis2022/Collision.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Confess Fletch 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Confess Fletch 2022 lati 
 http://51.81.208.167/pelis2022/Confess.Fletch.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Conspiracion explosiva 
+#EXTINF:-1 group-title"PELICULA",Conspiracion explosiva 
 http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Corrective Measures 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Corrective Measures 2022 lati 
 http://51.81.208.167/pelis2022/Corrective.Measures.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Corro da te 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Corro da te 2022 lati 
 http://51.81.208.167/pelis2022/Corro.da.te.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Cuarentones 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Cuarentones 2022 lati 
 http://51.81.208.167/pelis2022/Cuarentones.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Culpa 2022 
+#EXTINF:-1 group-title"PELICULA",Culpa 2022 
 http://51.81.208.167/pelis2022/Culpa.2022.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", DC League of Super Pets 2022 lati 
+#EXTINF:-1 group-title"PELICULA",DC League of Super Pets 2022 lati 
 http://51.81.208.167/pelis2022/DC.League.of.Super.Pets.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Darby and the Dead 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Darby and the Dead 2022 lati 
 http://51.81.208.167/pelis2022/Darby.and.the.Dead.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dead Zone 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Dead Zone 2022 lati 
 http://51.81.208.167/pelis2022/Dead.Zone.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Der Parfumeur 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Der Parfumeur 2022 lati 
 http://51.81.208.167/pelis2022/Der.Parfumeur.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Desconectados 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Desconectados 2022 lati 
 http://51.81.208.167/pelis2022/Desconectados.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Desperate Riders 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Desperate Riders 2022 lati 
 http://51.81.208.167/pelis2022/Desperate.Riders.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Devils Workshop 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Devils Workshop 2022 lati 
 http://51.81.208.167/pelis2022/Devils.Workshop.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Devotion 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Devotion 2022 lati 
 http://51.81.208.167/pelis2022/Devotion.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Doctor Strange in the Multiverse of Madness 2022 1080p 
+#EXTINF:-1 group-title"PELICULA",Doctor Strange in the Multiverse of Madness 2022 1080p 
 http://51.81.208.167/pelis2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Dont Worry Darling 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Dont Worry Darling 2022 lati 
 http://51.81.208.167/pelis2022/Dont.Worry.Darling.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Amor Mas Alla del Tiempo 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",El Amor Mas Alla del Tiempo 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/El.Amor.Mas.Alla.del.Tiempo.2022.1080p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El Hombre de Toronto 
+#EXTINF:-1 group-title"PELICULA",El Hombre de Toronto 
 http://51.81.208.167/pelis2022/El.Hombre.de.Toronto.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El gerente 2022 lati 
+#EXTINF:-1 group-title"PELICULA",El gerente 2022 lati 
 http://51.81.208.167/pelis2022/El.gerente.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El norte sobre el vacio 2022 lati 
+#EXTINF:-1 group-title"PELICULA",El norte sobre el vacio 2022 lati 
 http://51.81.208.167/pelis2022/El.norte.sobre.el.vacio.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El test 2022 cast pelispanda 
+#EXTINF:-1 group-title"PELICULA",El test 2022 cast pelispanda 
 http://51.81.208.167/pelis2022/El.test.2022.cast.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", El universo de oliver 2022 cas pelispanda 
+#EXTINF:-1 group-title"PELICULA",El universo de oliver 2022 cas pelispanda 
 http://51.81.208.167/pelis2022/El.universo.de.oliver.2022.cas.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Elesin Oba The Kings Horseman 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Elesin Oba The Kings Horseman 2022 lati 
 http://51.81.208.167/pelis2022/Elesin.Oba.The.Kings.Horseman.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Emancipacion 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Emancipacion 2022 lati 
 http://51.81.208.167/pelis2022/Emancipacion.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Emily the Criminal 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Emily the Criminal 2022 lati 
 http://51.81.208.167/pelis2022/Emily.the.Criminal.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Enola Holmes 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Enola Holmes 2 2022 lati 
 http://51.81.208.167/pelis2022/Enola.Holmes.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Everything Everywhere All at Once 2022 dual lati 
+#EXTINF:-1 group-title"PELICULA",Everything Everywhere All at Once 2022 dual lati 
 http://51.81.208.167/pelis2022/Everything.Everywhere.All.at.Once.2022.dual.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Falling for Christmas 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Falling for Christmas 2022 lati 
 http://51.81.208.167/pelis2022/Falling.for.Christmas.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fantastic Beasts Thed Secrets Of Dumbledore 2022 
+#EXTINF:-1 group-title"PELICULA",Fantastic Beasts Thed Secrets Of Dumbledore 2022 
 http://51.81.208.167/pelis2022/Fantastic.Beasts.Thed.Secrets.Of.Dumbledore.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fantasy Football 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Fantasy Football 2022 lati 
 http://51.81.208.167/pelis2022/Fantasy.Football.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Firestarter 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Firestarter 2022 lati 
 http://51.81.208.167/pelis2022/Firestarter.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fortress 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Fortress 2 2022 lati 
 http://51.81.208.167/pelis2022/Fortress.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Franco Escamilla Voyerista auditivo 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Franco Escamilla Voyerista auditivo 2022 lati 
 http://51.81.208.167/pelis2022/Franco.Escamilla.Voyerista.auditivo.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Frank Penelope 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Frank Penelope 2022 lati 
 http://51.81.208.167/pelis2022/Frank.Penelope.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Fullmetal Alchemist La alquimia final 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Fullmetal Alchemist La alquimia final 2022 lati 
 http://51.81.208.167/pelis2022/Fullmetal.Alchemist.La.alquimia.final.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Gato con Botas El ultimo deseo 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",Gato con Botas El ultimo deseo 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Gospel 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Gospel 2022 lati 
 http://51.81.208.167/pelis2022/Gospel.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Guillermo del Toros Pinocchio 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Guillermo del Toros Pinocchio 2022 lati 
 http://51.81.208.167/pelis2022/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Halloween Ends 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Halloween Ends 2022 lati 
 http://51.81.208.167/pelis2022/Halloween.Ends.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hawa 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Hawa 2022 lati 
 http://51.81.208.167/pelis2022/Hawa.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hocus Pocus 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Hocus Pocus 2 2022 lati 
 http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Home Team 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Home Team 2022 lati 
 http://51.81.208.167/pelis2022/Home.Team.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hot Seat 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Hot Seat 2022 lati 
 http://51.81.208.167/pelis2022/Hot.Seat.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hotel Transylvania Transformania 2022 
+#EXTINF:-1 group-title"PELICULA",Hotel Transylvania Transformania 2022 
 http://51.81.208.167/pelis2022/Hotel.Transylvania.Transformania.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", House Of Gucci 2021 1080p dual-lat mitorrent org 
+#EXTINF:-1 group-title"PELICULA",House Of Gucci 2021 1080p dual-lat mitorrent org 
 http://51.81.208.167/pelis2022/House.Of.Gucci.2021.1080p.dual-lat.mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Huevitos Congelados 2022 1080P Webrip 
+#EXTINF:-1 group-title"PELICULA",Huevitos Congelados 2022 1080P Webrip 
 http://51.81.208.167/pelis2022/Huevitos.Congelados.2022.1080P.Webrip.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Hunting Ava Bravo 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Hunting Ava Bravo 2022 lati 
 http://51.81.208.167/pelis2022/Hunting.Ava.Bravo.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ice Age Adventures of Buck Wild 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Ice Age Adventures of Buck Wild 2022 lati 
 http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Il filo invisibile 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Il filo invisibile 2022 lati 
 http://51.81.208.167/pelis2022/Il.filo.invisibile.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Im Westen nichts Neues 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Im Westen nichts Neues 2022 lati 
 http://51.81.208.167/pelis2022/Im.Westen.nichts.Neues.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jackass Forever 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Jackass Forever 2022 lati 
 http://51.81.208.167/pelis2022/Jackass.Forever.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jetski 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Jetski 2022 lati 
 http://51.81.208.167/pelis2022/Jetski.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Jurassic World Dominion 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Jurassic World Dominion 2022 lati 
 http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kaamelott Premier volet 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Kaamelott Premier volet 2022 lati 
 http://51.81.208.167/pelis2022/Kaamelott.Premier.volet.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Kimi 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Kimi 2022 lati 
 http://51.81.208.167/pelis2022/Kimi.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", LEGO Star Wars Summer Vacation 2022 
+#EXTINF:-1 group-title"PELICULA",LEGO Star Wars Summer Vacation 2022 
 http://51.81.208.167/pelis2022/LEGO.Star.Wars.Summer.Vacation.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Llorona 2022 
+#EXTINF:-1 group-title"PELICULA",La Llorona 2022 
 http://51.81.208.167/pelis2022/La.Llorona.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Mujer Rey 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",La Mujer Rey 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/La.Mujer.Rey.2022.1080p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La cima 2022 lati 
+#EXTINF:-1 group-title"PELICULA",La cima 2022 lati 
 http://51.81.208.167/pelis2022/La.cima.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Last Seen Alive 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Last Seen Alive 2022 lati 
 http://51.81.208.167/pelis2022/Last.Seen.Alive.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Les Liaisons Dangereuses 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Les Liaisons Dangereuses 2022 lati 
 http://51.81.208.167/pelis2022/Les.Liaisons.Dangereuses.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Lightyear 1080 dual 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Lightyear 1080 dual 2022 lati 
 http://51.81.208.167/pelis2022/Lightyear.1080.dual.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Lou 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Lou 2022 lati 
 http://51.81.208.167/pelis2022/Lou.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Love and Leashes 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Love and Leashes 2022 lati 
 http://51.81.208.167/pelis2022/Love.and.Leashes.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Luck 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Luck 2022 lati 
 http://51.81.208.167/pelis2022/Luck.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Luckiest Girl Alive 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Luckiest Girl Alive 2022 lati 
 http://51.81.208.167/pelis2022/Luckiest.Girl.Alive.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mal de Ojo 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",Mal de Ojo 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/Mal.de.Ojo.2022.1080p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mama no enRedes 2022 cas pelispanda 
+#EXTINF:-1 group-title"PELICULA",Mama no enRedes 2022 cas pelispanda 
 http://51.81.208.167/pelis2022/Mama.no.enRedes.2022.cas.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Margaux 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Margaux 2022 lati 
 http://51.81.208.167/pelis2022/Margaux.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Marry Me 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Marry Me 2022 lati 
 http://51.81.208.167/pelis2022/Marry.Me.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mas respeto que soy tu madre 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Mas respeto que soy tu madre 2022 lati 
 http://51.81.208.167/pelis2022/Mas.respeto.que.soy.tu.madre.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Matilda de Roald Dahl 
+#EXTINF:-1 group-title"PELICULA",Matilda de Roald Dahl 
 http://51.81.208.167/pelis2022/Matilda.de.Roald.Dahl.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Matrimillas 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Matrimillas 2022 lati 
 http://51.81.208.167/pelis2022/Matrimillas.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Me Time 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Me Time 2022 lati 
 http://51.81.208.167/pelis2022/Me.Time.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Medieval 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Medieval 2022 lati 
 http://51.81.208.167/pelis2022/Medieval.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Meet Cute 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Meet Cute 2022 lati 
 http://51.81.208.167/pelis2022/Meet.Cute.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", MexZombies 2022 lati 
+#EXTINF:-1 group-title"PELICULA",MexZombies 2022 lati 
 http://51.81.208.167/pelis2022/MexZombies.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mia and Me The Hero of Centopia 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Mia and Me The Hero of Centopia 2022 lati 
 http://51.81.208.167/pelis2022/Mia.and.Me.The.Hero.of.Centopia.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mindcage 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",Mindcage 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/Mindcage.2022.1080p-dual-lat.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Minions The Rise of Gru 2022 1080p 
+#EXTINF:-1 group-title"PELICULA",Minions The Rise of Gru 2022 1080p 
 http://51.81.208.167/pelis2022/Minions.The.Rise.of.Gru.2022.1080p.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Monster High The Movie 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Monster High The Movie 2022 lati 
 http://51.81.208.167/pelis2022/Monster.High.The.Movie.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Moonfall 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Moonfall 2022 lati 
 http://51.81.208.167/pelis2022/Moonfall.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Morbius 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Morbius 2022 lati 
 http://51.81.208.167/pelis2022/Morbius.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Mortal Kombat Legends Snow Blind 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Mortal Kombat Legends Snow Blind 2022 lati 
 http://51.81.208.167/pelis2022/Mortal.Kombat.Legends.Snow.Blind.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", My Fathers Dragon 2022 lati 
+#EXTINF:-1 group-title"PELICULA",My Fathers Dragon 2022 lati 
 http://51.81.208.167/pelis2022/My.Fathers.Dragon.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", My Hero Academia Mision mundial de heroes 2021 lati 
+#EXTINF:-1 group-title"PELICULA",My Hero Academia Mision mundial de heroes 2021 lati 
 http://51.81.208.167/pelis2022/My.Hero.Academia.Mision.mundial.de.heroes.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", My Policeman 2022 lati 
+#EXTINF:-1 group-title"PELICULA",My Policeman 2022 lati 
 http://51.81.208.167/pelis2022/My.Policeman.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", My Sweet Monster 2021 lati 
+#EXTINF:-1 group-title"PELICULA",My Sweet Monster 2021 lati 
 http://51.81.208.167/pelis2022/My.Sweet.Monster.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Natale a tutti i costi 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Natale a tutti i costi 2022 lati 
 http://51.81.208.167/pelis2022/Natale.a.tutti.i.costi.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Night at the Museum Kahmunrah Rises Again 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Night at the Museum Kahmunrah Rises Again 2022 lati 
 http://51.81.208.167/pelis2022/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Nope 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Nope 2022 lati 
 http://51.81.208.167/pelis2022/Nope.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", One Way 2022 lati 
+#EXTINF:-1 group-title"PELICULA",One Way 2022 lati 
 http://51.81.208.167/pelis2022/One.Way.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Operation Mincemeat 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Operation Mincemeat 2022 lati 
 http://51.81.208.167/pelis2022/Operation.Mincemeat.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Orphan First Kill 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Orphan First Kill 2022 lati 
 http://51.81.208.167/pelis2022/Orphan.First.Kill.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Our Children 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Our Children 2022 lati 
 http://51.81.208.167/pelis2022/Our.Children.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Overdose 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Overdose 2022 lati 
 http://51.81.208.167/pelis2022/Overdose.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Padre nohay mas que uno 3 
+#EXTINF:-1 group-title"PELICULA",Padre nohay mas que uno 3 
 http://51.81.208.167/pelis2022/Padre.nohay.mas.que.uno.3.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Paws of Fury The Legend of Hank 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Paws of Fury The Legend of Hank 2022 lati 
 http://51.81.208.167/pelis2022/Paws.of.Fury.The.Legend.of.Hank.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Pinocchio 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Pinocchio 2022 lati 
 http://51.81.208.167/pelis2022/Pinocchio.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Plan A Plan B 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Plan A Plan B 2022 lati 
 http://51.81.208.167/pelis2022/Plan.A.Plan.B.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Prey 2022 
+#EXTINF:-1 group-title"PELICULA",Prey 2022 
 http://51.81.208.167/pelis2022/Prey.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Promesas en Paris 2022 cas pelispanda 
+#EXTINF:-1 group-title"PELICULA",Promesas en Paris 2022 cas pelispanda 
 http://51.81.208.167/pelis2022/Promesas.en.Paris.2022.cas.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", QuE despadre 2022 lati 
+#EXTINF:-1 group-title"PELICULA",QuE despadre 2022 lati 
 http://51.81.208.167/pelis2022/QuE.despadre.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Que tengas un buen viaje 
+#EXTINF:-1 group-title"PELICULA",Que tengas un buen viaje 
 http://51.81.208.167/pelis2022/Que.tengas.un.buen.viaje.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", RRR 2022 lati 
+#EXTINF:-1 group-title"PELICULA",RRR 2022 lati 
 http://51.81.208.167/pelis2022/RRR.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Raging Fire 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Raging Fire 2021 lati 
 http://51.81.208.167/pelis2022/Raging.Fire.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rob Zombies The Munsters 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Rob Zombies The Munsters 2022 lati 
 http://51.81.208.167/pelis2022/Rob.Zombies.The.Munsters.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rock Dog 3 Battle The Beat 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Rock Dog 3 Battle The Beat 2022 lati 
 http://51.81.208.167/pelis2022/Rock.Dog.3.Battle.The.Beat.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Rumble 2021 lati 
+#EXTINF:-1 group-title"PELICULA",Rumble 2021 lati 
 http://51.81.208.167/pelis2022/Rumble.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Scooby Doo Dulce o Travesura 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Scooby Doo Dulce o Travesura 2022 lati 
 http://51.81.208.167/pelis2022/Scooby.Doo.Dulce.o.Travesura.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Scrooge A Christmas Carol 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Scrooge A Christmas Carol 2022 lati 
 http://51.81.208.167/pelis2022/Scrooge.A.Christmas.Carol.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Secret Headquarters 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Secret Headquarters 2022 lati 
 http://51.81.208.167/pelis2022/Secret.Headquarters.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sexo pudor y lagrimas 2 2022 1080p-lat-mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Sexo pudor y lagrimas 2 2022 1080p-lat-mitorrent org 
 http://51.81.208.167/pelis2022/Sexo.pudor.y.lagrimas.2.2022.1080p-lat-mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Shotgun Wedding 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Shotgun Wedding 2022 lati 
 http://51.81.208.167/pelis2022/Shotgun.Wedding.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sin Respiro 2022 1080p-dual-lat 
+#EXTINF:-1 group-title"PELICULA",Sin Respiro 2022 1080p-dual-lat 
 http://51.81.208.167/pelis2022/Sin.Respiro.2022.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Slumberland 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Slumberland 2022 lati 
 http://51.81.208.167/pelis2022/Slumberland.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sneakerella 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Sneakerella 2022 lati 
 http://51.81.208.167/pelis2022/Sneakerella.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sniper Rogue Mission 2022  lati 
+#EXTINF:-1 group-title"PELICULA",Sniper Rogue Mission 2022  lati 
 http://51.81.208.167/pelis2022/Sniper.Rogue.Mission.2022..lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Sonic the Hedgehog 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Sonic the Hedgehog 2 2022 lati 
 http://51.81.208.167/pelis2022/Sonic.the.Hedgehog.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Spirit Halloween The Movie 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Spirit Halloween The Movie 2022 lati 
 http://51.81.208.167/pelis2022/Spirit.Halloween.The.Movie.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Stowaway 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Stowaway 2022 lati 
 http://51.81.208.167/pelis2022/Stowaway.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tadeo Jones 3 La tabla esmeralda 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Tadeo Jones 3 La tabla esmeralda 2022 lati 
 http://51.81.208.167/pelis2022/Tadeo.Jones.3.La.tabla.esmeralda.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tall Girl 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Tall Girl 2 2022 lati 
 http://51.81.208.167/pelis2022/Tall.Girl.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The 355 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The 355 2022 lati 
 http://51.81.208.167/pelis2022/The.355.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Adam Project 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Adam Project 2022 lati 
 http://51.81.208.167/pelis2022/The.Adam.Project.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Bad Guys 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Bad Guys 2022 lati 
 http://51.81.208.167/pelis2022/The.Bad.Guys.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Batman 2022 
+#EXTINF:-1 group-title"PELICULA",The Batman 2022 
 http://51.81.208.167/pelis2022/The.Batman.2022.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Black Phone 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Black Phone 2021 lati 
 http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Boss Baby Christmas Bonus 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Boss Baby Christmas Bonus 2022 lati 
 http://51.81.208.167/pelis2022/The.Boss.Baby.Christmas.Bonus.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Contractor 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Contractor 2022 lati 
 http://51.81.208.167/pelis2022/The.Contractor.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Devil You Know 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Devil You Know 2022 lati 
 http://51.81.208.167/pelis2022/The.Devil.You.Know.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Enforcer 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Enforcer 2022 lati 
 http://51.81.208.167/pelis2022/The.Enforcer.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Forgiven 2021 lati 
+#EXTINF:-1 group-title"PELICULA",The Forgiven 2021 lati 
 http://51.81.208.167/pelis2022/The.Forgiven.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Good Nurse 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Good Nurse 2022 lati 
 http://51.81.208.167/pelis2022/The.Good.Nurse.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Independent 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Independent 2022 lati 
 http://51.81.208.167/pelis2022/The.Independent.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Infernal Machine 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Infernal Machine 2022 lati 
 http://51.81.208.167/pelis2022/The.Infernal.Machine.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Invitation 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Invitation 2022 lati 
 http://51.81.208.167/pelis2022/The.Invitation.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Kings Man 2021 
+#EXTINF:-1 group-title"PELICULA",The Kings Man 2021 
 http://51.81.208.167/pelis2022/The.Kings.Man.2021.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Last Mark 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Last Mark 2022 lati 
 http://51.81.208.167/pelis2022/The.Last.Mark.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Lost City 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Lost City 2022 lati 
 http://51.81.208.167/pelis2022/The.Lost.City.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Northman 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Northman 2022 lati 
 http://51.81.208.167/pelis2022/The.Northman.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Outfit 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Outfit 2022 lati 
 http://51.81.208.167/pelis2022/The.Outfit.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Pirates The Last Royal Treasure 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Pirates The Last Royal Treasure 2022 lati 
 http://51.81.208.167/pelis2022/The.Pirates.The.Last.Royal.Treasure.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Roundup 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Roundup 2022 lati 
 http://51.81.208.167/pelis2022/The.Roundup.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The School for Good and Evil 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The School for Good and Evil 2022 lati 
 http://51.81.208.167/pelis2022/The.School.for.Good.and.Evil.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Sea Beast 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Sea Beast 2022 lati 
 http://51.81.208.167/pelis2022/The.Sea.Beast.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Silent Twins 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Silent Twins 2022 lati 
 http://51.81.208.167/pelis2022/The.Silent.Twins.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Soccer Football Movie 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Soccer Football Movie 2022 lati 
 http://51.81.208.167/pelis2022/The.Soccer.Football.Movie.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Stranger 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Stranger 2022 lati 
 http://51.81.208.167/pelis2022/The.Stranger.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", The Valet 2022 lati 
+#EXTINF:-1 group-title"PELICULA",The Valet 2022 lati 
 http://51.81.208.167/pelis2022/The.Valet.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", TheyThem 2022 
+#EXTINF:-1 group-title"PELICULA",TheyThem 2022 
 http://51.81.208.167/pelis2022/TheyThem.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", This Games Called Murder 2021 lati 
+#EXTINF:-1 group-title"PELICULA",This Games Called Murder 2021 lati 
 http://51.81.208.167/pelis2022/This.Games.Called.Murder.2021.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Thor Love and Thunder 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Thor Love and Thunder 2022 lati 
 http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Three Months 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Three Months 2022 lati 
 http://51.81.208.167/pelis2022/Three.Months.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Ticket to Paradise 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Ticket to Paradise 2022 lati 
 http://51.81.208.167/pelis2022/Ticket.to.Paradise.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Todo es posible avi
+#EXTINF:-1 group-title"PELICULA",Todo es posible avi
 http://51.81.208.167/pelis2022/Todo.es.posible.avi
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Top Gun 2 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Top Gun 2 2022 lati 
 http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Toscana 2022 cas pelispanda 
+#EXTINF:-1 group-title"PELICULA",Toscana 2022 cas pelispanda 
 http://51.81.208.167/pelis2022/Toscana.2022.cas.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Tratamiento real 2022 
+#EXTINF:-1 group-title"PELICULA",Tratamiento real 2022 
 http://51.81.208.167/pelis2022/Tratamiento.real.2022.mkv
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Turning Red 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Turning Red 2022 lati 
 http://51.81.208.167/pelis2022/Turning.Red.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Uncharted 2022 1080p dual-lat Mitorrent org 
+#EXTINF:-1 group-title"PELICULA",Uncharted 2022 1080p dual-lat Mitorrent org 
 http://51.81.208.167/pelis2022/Uncharted.2022.1080p.dual-lat.Mitorrent.org.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Under Wraps 2 2022 cas pelispanda 
+#EXTINF:-1 group-title"PELICULA",Under Wraps 2 2022 cas pelispanda 
 http://51.81.208.167/pelis2022/Under.Wraps.2.2022.cas.pelispanda.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Vengeance 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Vengeance 2022 lati 
 http://51.81.208.167/pelis2022/Vengeance.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Venus 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Venus 2022 lati 
 http://51.81.208.167/pelis2022/Venus.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Voy A Pasarmelo Bien 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Voy A Pasarmelo Bien 2022 lati 
 http://51.81.208.167/pelis2022/Voy.A.Pasarmelo.Bien.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Warriors of Future 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Warriors of Future 2022 lati 
 http://51.81.208.167/pelis2022/Warriors.of.Future.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wendell and Wild 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Wendell and Wild 2022 lati 
 http://51.81.208.167/pelis2022/Wendell.and.Wild.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Werewolf by Night 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Werewolf by Night 2022 lati 
 http://51.81.208.167/pelis2022/Werewolf.by.Night.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", White Elephant 2022 lati 
+#EXTINF:-1 group-title"PELICULA",White Elephant 2022 lati 
 http://51.81.208.167/pelis2022/White.Elephant.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wild is the Wind 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Wild is the Wind 2022 lati 
 http://51.81.208.167/pelis2022/Wild.is.the.Wind.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Wrong Place 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Wrong Place 2022 lati 
 http://51.81.208.167/pelis2022/Wrong.Place.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", X 2022 lati 
+#EXTINF:-1 group-title"PELICULA",X 2022 lati 
 http://51.81.208.167/pelis2022/X.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", You Wont Be Alone 2022 lati 
+#EXTINF:-1 group-title"PELICULA",You Wont Be Alone 2022 lati 
 http://51.81.208.167/pelis2022/You.Wont.Be.Alone.2022.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", Your Christmas or Mine 2022 lati 
+#EXTINF:-1 group-title"PELICULA",Your Christmas or Mine 2022 lati 
 http://51.81.208.167/pelis2022/Your.Christmas.or.Mine.2022.lati.mp4
 
 
@@ -14427,17 +14427,17 @@ http://51.81.208.167/movies/vendetta_(2015).mp4
 http://51.81.208.167/movies/year_one_(2009).avi
 
 
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 101 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 101 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.101.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 102 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 102 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.102.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 103 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 103 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.103.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 104 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 104 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.104.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 105 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 105 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.105.lati.mp4
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish", La Casa de Papel Corea 106 lati 
+#EXTINF:-1 group-title"PELICULA",La Casa de Papel Corea 106 lati 
 http://51.81.208.167/series2022/La.casa.de.papel.Corea/1/La.Casa.de.Papel.Corea.106.lati.mp4
 
 #EXT-X-ENDLIST
