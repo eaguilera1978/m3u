@@ -1,19 +1,32 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
-#EXTINF:-1 group-title"PELICULA",John Wick Chapter 4 2023 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
-#EXTINF:-1 group-title"PELICULA",Ant-Man and the Wasp Quantumania 2023 720p-dual-lat http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv
-#EXTINF:-1 group-title"PELICULA",Hunger 2023 1080P http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
-#EXTINF:-1 group-title"PELICULA",The Super Mario Bros Movie 2023-RmTv http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
-#EXTINF:-1 group-title"PELICULA",Shazam! 2 2023 lati http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
-#EXTINF:-1 group-title"PELICULA",Murder Mystery 2 2023 lati http://51.81.208.167/pelis2023/Murder.Mystery.2.2023.lati.mp4
-#EXTINF:-1 group-title"PELICULA",On a Wing and a Prayer 2023 lati http://51.81.208.167/pelis2023/On.a.Wing.and.a.Prayer.2023.lati.mp4
-#EXTINF:-1 group-title"PELICULA",65 2023 lati http://51.81.208.167/pelis2023/65.2023.lati.mp4
-#EXTINF:-1 group-title"PELICULA",The Whale 2022 lati http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
-#EXTINF:-1 group-title"PELICULA",Creed III 2023 http://51.81.208.167/pelis2023/Creed.III.2023.mkv
-#EXTINF:-1 group-title"PELICULA",Magic Mikes Last Dance 2023 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
-#EXTINF:-1 group-title"PELICULA",Die Hart the Movie 2023 lati http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
-#EXTINF:-1 group-title"PELICULA",The System 2022 lati http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
+#EXTINF:-1 group-title"PELICULA",John Wick Chapter 4 2023
+http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Ant-Man and the Wasp Quantumania 2023 720p-dual-lat
+http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Hunger 2023 1080P
+http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
+#EXTINF:-1 group-title"PELICULA",The Super Mario Bros Movie 2023-RmTv
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
+#EXTINF:-1 group-title"PELICULA",Shazam! 2 2023 lati
+http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Murder Mystery 2 2023 lati
+http://51.81.208.167/pelis2023/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",On a Wing and a Prayer 2023 lati 
+http://51.81.208.167/pelis2023/On.a.Wing.and.a.Prayer.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",65 2023 lati 
+http://51.81.208.167/pelis2023/65.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",The Whale 2022 lati 
+http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
+#EXTINF:-1 group-title"PELICULA",Creed III 2023 
+http://51.81.208.167/pelis2023/Creed.III.2023.mkv
+#EXTINF:-1 group-title"PELICULA",Magic Mikes Last Dance 2023 
+http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
+#EXTINF:-1 group-title"PELICULA",Die Hart the Movie 2023 lati 
+http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
+#EXTINF:-1 group-title"PELICULA",The System 2022 lati 
+http://51.81.208.167/pelis2023/The.System.2022.lati.mp4
 #EXTINF:-1 group-title"PELICULA",A Man Called Otto 2022 1080p http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
 #EXTINF:-1 group-title"PELICULA",Knock at the Cabin 2023 http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
 #EXTINF:-1 group-title"PELICULA",Plane 2023 http://51.81.208.167/pelis2023/Plane.2023.mp4
@@ -31,7 +44,7 @@ http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
 http://45.179.164.59:8181/Peliculas/2023/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat/%c2%a1Shazam!.La.furia.de.los.dioses.2023.720p-dual-lat.mkv
 #EXTINF:-1 group-title"PELICULA",Tetris. (2023) 
 http://45.179.164.59:8181/Peliculas/2023/Tetris.2023.720p-dual-lat/Tetris.2023.720p-dual-lat.mkv
-#EXTINF:-1 group-title"PELICULA",Super Mario Bros. (2023) 
+#EXTINF:-1 group-title"PELICULA",Super Mario Bros. (2023)
 http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 #EXTINF:-1 group-title"PELICULA",¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019) 
 http://51.81.208.167/movie/¡Scooby-Doo!_Y_la_Maldición_del_Fantasma_Número_13_(2019).mkv
