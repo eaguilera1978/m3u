@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST: Pelicula
+#EXTINF:-1 group-title"PELICULA",BARBIE 2023
+https://upds-my.sharepoint.com/:v:/g/personal/sc_edwin_aguilera_o_upds_net_bo/EQKVe2gydcdMmIBJjYAiQpIBW6WefChtkJUP1hv2ePcVLQ
 #EXTINF:-1 group-title"PELICULA",John Wick Chapter 4 2023
 http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
 #EXTINF:-1 group-title"PELICULA",Ant-Man and the Wasp Quantumania 2023 720p-dual-lat
